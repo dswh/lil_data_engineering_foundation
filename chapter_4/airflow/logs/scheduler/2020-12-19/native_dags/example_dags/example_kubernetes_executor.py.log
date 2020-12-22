@@ -1,0 +1,371 @@
+[2020-12-20 04:42:18,824] {scheduler_job.py:181} INFO - Started process (PID=54718) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:42:18,824] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:42:18,825] {logging_mixin.py:103} INFO - [2020-12-20 04:42:18,825] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:42:18,832] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:42:18,833] {logging_mixin.py:103} INFO - [2020-12-20 04:42:18,833] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:42:18,865] {logging_mixin.py:103} INFO - [2020-12-20 04:42:18,865] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:42:18,879] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.055 seconds
+[2020-12-20 04:43:13,293] {scheduler_job.py:181} INFO - Started process (PID=55011) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:43:13,294] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:43:13,294] {logging_mixin.py:103} INFO - [2020-12-20 04:43:13,294] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:43:13,301] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:43:13,301] {logging_mixin.py:103} INFO - [2020-12-20 04:43:13,301] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:43:13,331] {logging_mixin.py:103} INFO - [2020-12-20 04:43:13,331] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:43:13,343] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.051 seconds
+[2020-12-20 04:44:24,043] {scheduler_job.py:181} INFO - Started process (PID=55309) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:44:24,044] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:44:24,045] {logging_mixin.py:103} INFO - [2020-12-20 04:44:24,045] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:44:24,060] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:44:24,061] {logging_mixin.py:103} INFO - [2020-12-20 04:44:24,060] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:44:24,110] {logging_mixin.py:103} INFO - [2020-12-20 04:44:24,110] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:44:24,132] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.090 seconds
+[2020-12-20 04:45:21,970] {scheduler_job.py:181} INFO - Started process (PID=55599) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:45:21,970] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:45:21,971] {logging_mixin.py:103} INFO - [2020-12-20 04:45:21,971] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:45:21,977] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:45:21,977] {logging_mixin.py:103} INFO - [2020-12-20 04:45:21,977] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:45:22,005] {logging_mixin.py:103} INFO - [2020-12-20 04:45:22,005] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:45:22,015] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.046 seconds
+[2020-12-20 04:46:14,539] {scheduler_job.py:181} INFO - Started process (PID=55883) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:46:14,539] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:46:14,539] {logging_mixin.py:103} INFO - [2020-12-20 04:46:14,539] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:46:14,544] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:46:14,545] {logging_mixin.py:103} INFO - [2020-12-20 04:46:14,545] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:46:14,569] {logging_mixin.py:103} INFO - [2020-12-20 04:46:14,569] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:46:14,580] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.042 seconds
+[2020-12-20 04:47:08,087] {scheduler_job.py:181} INFO - Started process (PID=56168) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:47:08,088] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:47:08,088] {logging_mixin.py:103} INFO - [2020-12-20 04:47:08,088] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:47:08,094] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:47:08,095] {logging_mixin.py:103} INFO - [2020-12-20 04:47:08,095] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:47:08,123] {logging_mixin.py:103} INFO - [2020-12-20 04:47:08,123] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:47:08,136] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.049 seconds
+[2020-12-20 04:48:01,727] {scheduler_job.py:181} INFO - Started process (PID=56453) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:48:01,727] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:48:01,728] {logging_mixin.py:103} INFO - [2020-12-20 04:48:01,728] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:48:01,735] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:48:01,735] {logging_mixin.py:103} INFO - [2020-12-20 04:48:01,735] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:48:01,764] {logging_mixin.py:103} INFO - [2020-12-20 04:48:01,764] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:48:01,777] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.051 seconds
+[2020-12-20 04:48:55,287] {scheduler_job.py:181} INFO - Started process (PID=56739) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:48:55,287] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:48:55,287] {logging_mixin.py:103} INFO - [2020-12-20 04:48:55,287] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:48:55,292] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:48:55,293] {logging_mixin.py:103} INFO - [2020-12-20 04:48:55,293] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:48:55,317] {logging_mixin.py:103} INFO - [2020-12-20 04:48:55,317] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:48:55,328] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.042 seconds
+[2020-12-20 04:49:49,017] {scheduler_job.py:181} INFO - Started process (PID=57022) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:49:49,017] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:49:49,018] {logging_mixin.py:103} INFO - [2020-12-20 04:49:49,018] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:49:49,024] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:49:49,024] {logging_mixin.py:103} INFO - [2020-12-20 04:49:49,024] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:49:49,050] {logging_mixin.py:103} INFO - [2020-12-20 04:49:49,050] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:49:49,062] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.045 seconds
+[2020-12-20 04:50:42,627] {scheduler_job.py:181} INFO - Started process (PID=57306) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:50:42,627] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:50:42,628] {logging_mixin.py:103} INFO - [2020-12-20 04:50:42,628] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:50:42,633] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:50:42,633] {logging_mixin.py:103} INFO - [2020-12-20 04:50:42,633] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:50:42,658] {logging_mixin.py:103} INFO - [2020-12-20 04:50:42,658] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:50:42,669] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.042 seconds
+[2020-12-20 04:51:35,669] {scheduler_job.py:181} INFO - Started process (PID=57591) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:51:35,669] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:51:35,670] {logging_mixin.py:103} INFO - [2020-12-20 04:51:35,670] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:51:35,677] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:51:35,677] {logging_mixin.py:103} INFO - [2020-12-20 04:51:35,677] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:51:35,706] {logging_mixin.py:103} INFO - [2020-12-20 04:51:35,706] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:51:35,719] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.050 seconds
+[2020-12-20 04:52:26,900] {scheduler_job.py:181} INFO - Started process (PID=57878) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:52:26,901] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:52:26,901] {logging_mixin.py:103} INFO - [2020-12-20 04:52:26,901] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:52:26,906] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:52:26,906] {logging_mixin.py:103} INFO - [2020-12-20 04:52:26,906] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:52:26,933] {logging_mixin.py:103} INFO - [2020-12-20 04:52:26,933] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:52:26,946] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.046 seconds
+[2020-12-20 04:53:21,013] {scheduler_job.py:181} INFO - Started process (PID=58163) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:53:21,014] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:53:21,014] {logging_mixin.py:103} INFO - [2020-12-20 04:53:21,014] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:53:21,019] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:53:21,020] {logging_mixin.py:103} INFO - [2020-12-20 04:53:21,019] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:53:21,046] {logging_mixin.py:103} INFO - [2020-12-20 04:53:21,046] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:53:21,056] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.043 seconds
+[2020-12-20 04:54:14,946] {scheduler_job.py:181} INFO - Started process (PID=58454) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:54:14,946] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:54:14,947] {logging_mixin.py:103} INFO - [2020-12-20 04:54:14,947] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:54:14,952] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:54:14,952] {logging_mixin.py:103} INFO - [2020-12-20 04:54:14,952] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:54:14,976] {logging_mixin.py:103} INFO - [2020-12-20 04:54:14,976] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:54:14,987] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.041 seconds
+[2020-12-20 04:55:09,168] {scheduler_job.py:181} INFO - Started process (PID=58741) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:55:09,168] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:55:09,168] {logging_mixin.py:103} INFO - [2020-12-20 04:55:09,168] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:55:09,178] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:55:09,179] {logging_mixin.py:103} INFO - [2020-12-20 04:55:09,179] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:55:09,214] {logging_mixin.py:103} INFO - [2020-12-20 04:55:09,213] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:55:09,227] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.060 seconds
+[2020-12-20 04:56:03,259] {scheduler_job.py:181} INFO - Started process (PID=59022) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:56:03,259] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:56:03,260] {logging_mixin.py:103} INFO - [2020-12-20 04:56:03,260] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:56:03,265] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:56:03,266] {logging_mixin.py:103} INFO - [2020-12-20 04:56:03,266] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:56:03,289] {logging_mixin.py:103} INFO - [2020-12-20 04:56:03,289] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:56:03,301] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.042 seconds
+[2020-12-20 04:56:57,256] {scheduler_job.py:181} INFO - Started process (PID=59304) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:56:57,257] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:56:57,257] {logging_mixin.py:103} INFO - [2020-12-20 04:56:57,257] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:56:57,263] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:56:57,263] {logging_mixin.py:103} INFO - [2020-12-20 04:56:57,263] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:56:57,289] {logging_mixin.py:103} INFO - [2020-12-20 04:56:57,289] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:56:57,300] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.044 seconds
+[2020-12-20 04:57:50,965] {scheduler_job.py:181} INFO - Started process (PID=59587) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:57:50,965] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:57:50,965] {logging_mixin.py:103} INFO - [2020-12-20 04:57:50,965] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:57:50,970] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:57:50,971] {logging_mixin.py:103} INFO - [2020-12-20 04:57:50,971] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:57:50,996] {logging_mixin.py:103} INFO - [2020-12-20 04:57:50,996] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:57:51,007] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.043 seconds
+[2020-12-20 04:58:44,818] {scheduler_job.py:181} INFO - Started process (PID=59869) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:58:44,819] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:58:44,819] {logging_mixin.py:103} INFO - [2020-12-20 04:58:44,819] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:58:44,826] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:58:44,826] {logging_mixin.py:103} INFO - [2020-12-20 04:58:44,826] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:58:44,855] {logging_mixin.py:103} INFO - [2020-12-20 04:58:44,855] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:58:44,867] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.049 seconds
+[2020-12-20 04:59:38,951] {scheduler_job.py:181} INFO - Started process (PID=60151) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:59:38,951] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 04:59:38,951] {logging_mixin.py:103} INFO - [2020-12-20 04:59:38,951] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:59:38,957] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 04:59:38,958] {logging_mixin.py:103} INFO - [2020-12-20 04:59:38,958] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:59:38,986] {logging_mixin.py:103} INFO - [2020-12-20 04:59:38,986] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 04:59:38,998] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.048 seconds
+[2020-12-20 05:00:32,805] {scheduler_job.py:181} INFO - Started process (PID=60438) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:00:32,805] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:00:32,805] {logging_mixin.py:103} INFO - [2020-12-20 05:00:32,805] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:00:32,811] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:00:32,812] {logging_mixin.py:103} INFO - [2020-12-20 05:00:32,812] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:00:32,837] {logging_mixin.py:103} INFO - [2020-12-20 05:00:32,837] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:00:32,847] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.042 seconds
+[2020-12-20 05:01:26,659] {scheduler_job.py:181} INFO - Started process (PID=60721) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:01:26,660] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:01:26,660] {logging_mixin.py:103} INFO - [2020-12-20 05:01:26,660] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:01:26,666] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:01:26,666] {logging_mixin.py:103} INFO - [2020-12-20 05:01:26,666] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:01:26,695] {logging_mixin.py:103} INFO - [2020-12-20 05:01:26,694] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:01:26,708] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.049 seconds
+[2020-12-20 05:02:18,663] {scheduler_job.py:181} INFO - Started process (PID=61013) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:02:18,663] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:02:18,663] {logging_mixin.py:103} INFO - [2020-12-20 05:02:18,663] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:02:18,671] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:02:18,672] {logging_mixin.py:103} INFO - [2020-12-20 05:02:18,672] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:02:18,700] {logging_mixin.py:103} INFO - [2020-12-20 05:02:18,700] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:02:18,714] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.052 seconds
+[2020-12-20 05:03:12,508] {scheduler_job.py:181} INFO - Started process (PID=61296) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:03:12,508] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:03:12,508] {logging_mixin.py:103} INFO - [2020-12-20 05:03:12,508] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:03:12,514] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:03:12,514] {logging_mixin.py:103} INFO - [2020-12-20 05:03:12,514] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:03:12,539] {logging_mixin.py:103} INFO - [2020-12-20 05:03:12,538] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:03:12,549] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.042 seconds
+[2020-12-20 05:04:06,986] {scheduler_job.py:181} INFO - Started process (PID=61582) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:04:06,987] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:04:06,987] {logging_mixin.py:103} INFO - [2020-12-20 05:04:06,987] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:04:06,992] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:04:06,992] {logging_mixin.py:103} INFO - [2020-12-20 05:04:06,992] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:04:07,017] {logging_mixin.py:103} INFO - [2020-12-20 05:04:07,017] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:04:07,029] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.043 seconds
+[2020-12-20 05:05:00,578] {scheduler_job.py:181} INFO - Started process (PID=61863) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:05:00,578] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:05:00,578] {logging_mixin.py:103} INFO - [2020-12-20 05:05:00,578] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:05:00,583] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:05:00,584] {logging_mixin.py:103} INFO - [2020-12-20 05:05:00,584] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:05:00,609] {logging_mixin.py:103} INFO - [2020-12-20 05:05:00,609] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:05:00,620] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.043 seconds
+[2020-12-20 05:05:54,681] {scheduler_job.py:181} INFO - Started process (PID=62152) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:05:54,681] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:05:54,682] {logging_mixin.py:103} INFO - [2020-12-20 05:05:54,681] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:05:54,688] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:05:54,689] {logging_mixin.py:103} INFO - [2020-12-20 05:05:54,689] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:05:54,717] {logging_mixin.py:103} INFO - [2020-12-20 05:05:54,717] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:05:54,730] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.050 seconds
+[2020-12-20 05:06:48,353] {scheduler_job.py:181} INFO - Started process (PID=62435) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:06:48,353] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:06:48,354] {logging_mixin.py:103} INFO - [2020-12-20 05:06:48,353] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:06:48,360] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:06:48,360] {logging_mixin.py:103} INFO - [2020-12-20 05:06:48,360] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:06:48,386] {logging_mixin.py:103} INFO - [2020-12-20 05:06:48,386] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:06:48,397] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.044 seconds
+[2020-12-20 05:07:42,538] {scheduler_job.py:181} INFO - Started process (PID=62715) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:07:42,539] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:07:42,539] {logging_mixin.py:103} INFO - [2020-12-20 05:07:42,539] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:07:42,545] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:07:42,545] {logging_mixin.py:103} INFO - [2020-12-20 05:07:42,545] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:07:42,570] {logging_mixin.py:103} INFO - [2020-12-20 05:07:42,570] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:07:42,582] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.044 seconds
+[2020-12-20 05:08:37,298] {scheduler_job.py:181} INFO - Started process (PID=63007) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:08:37,298] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:08:37,298] {logging_mixin.py:103} INFO - [2020-12-20 05:08:37,298] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:08:37,304] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:08:37,304] {logging_mixin.py:103} INFO - [2020-12-20 05:08:37,304] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:08:37,329] {logging_mixin.py:103} INFO - [2020-12-20 05:08:37,329] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:08:37,340] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.042 seconds
+[2020-12-20 05:09:31,622] {scheduler_job.py:181} INFO - Started process (PID=63295) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:09:31,622] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:09:31,623] {logging_mixin.py:103} INFO - [2020-12-20 05:09:31,623] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:09:31,628] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:09:31,629] {logging_mixin.py:103} INFO - [2020-12-20 05:09:31,628] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:09:31,653] {logging_mixin.py:103} INFO - [2020-12-20 05:09:31,653] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:09:31,663] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.042 seconds
+[2020-12-20 05:10:25,746] {scheduler_job.py:181} INFO - Started process (PID=63581) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:10:25,746] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:10:25,746] {logging_mixin.py:103} INFO - [2020-12-20 05:10:25,746] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:10:25,753] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:10:25,753] {logging_mixin.py:103} INFO - [2020-12-20 05:10:25,753] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:10:25,784] {logging_mixin.py:103} INFO - [2020-12-20 05:10:25,784] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:10:25,798] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.053 seconds
+[2020-12-20 05:11:19,895] {scheduler_job.py:181} INFO - Started process (PID=63861) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:11:19,895] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:11:19,896] {logging_mixin.py:103} INFO - [2020-12-20 05:11:19,895] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:11:19,902] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:11:19,903] {logging_mixin.py:103} INFO - [2020-12-20 05:11:19,903] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:11:19,931] {logging_mixin.py:103} INFO - [2020-12-20 05:11:19,931] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:11:19,941] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.047 seconds
+[2020-12-20 05:12:11,243] {scheduler_job.py:181} INFO - Started process (PID=64147) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:12:11,243] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:12:11,243] {logging_mixin.py:103} INFO - [2020-12-20 05:12:11,243] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:12:11,250] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:12:11,251] {logging_mixin.py:103} INFO - [2020-12-20 05:12:11,251] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:12:11,278] {logging_mixin.py:103} INFO - [2020-12-20 05:12:11,278] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:12:11,290] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.048 seconds
+[2020-12-20 05:13:05,142] {scheduler_job.py:181} INFO - Started process (PID=64431) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:13:05,142] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:13:05,143] {logging_mixin.py:103} INFO - [2020-12-20 05:13:05,143] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:13:05,148] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:13:05,149] {logging_mixin.py:103} INFO - [2020-12-20 05:13:05,149] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:13:05,173] {logging_mixin.py:103} INFO - [2020-12-20 05:13:05,173] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:13:05,184] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.042 seconds
+[2020-12-20 05:13:58,837] {scheduler_job.py:181} INFO - Started process (PID=64712) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:13:58,838] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:13:58,838] {logging_mixin.py:103} INFO - [2020-12-20 05:13:58,838] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:13:58,846] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:13:58,847] {logging_mixin.py:103} INFO - [2020-12-20 05:13:58,847] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:13:58,878] {logging_mixin.py:103} INFO - [2020-12-20 05:13:58,878] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:13:58,892] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.055 seconds
+[2020-12-20 05:14:53,174] {scheduler_job.py:181} INFO - Started process (PID=64998) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:14:53,174] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:14:53,174] {logging_mixin.py:103} INFO - [2020-12-20 05:14:53,174] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:14:53,180] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:14:53,180] {logging_mixin.py:103} INFO - [2020-12-20 05:14:53,180] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:14:53,209] {logging_mixin.py:103} INFO - [2020-12-20 05:14:53,209] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:14:53,221] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.048 seconds
+[2020-12-20 05:15:43,646] {scheduler_job.py:181} INFO - Started process (PID=65283) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:15:43,647] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:15:43,647] {logging_mixin.py:103} INFO - [2020-12-20 05:15:43,647] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:15:43,653] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:15:43,653] {logging_mixin.py:103} INFO - [2020-12-20 05:15:43,653] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:15:43,677] {logging_mixin.py:103} INFO - [2020-12-20 05:15:43,677] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:15:43,689] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.043 seconds
+[2020-12-20 05:16:37,834] {scheduler_job.py:181} INFO - Started process (PID=65566) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:16:37,834] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:16:37,835] {logging_mixin.py:103} INFO - [2020-12-20 05:16:37,835] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:16:37,843] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:16:37,843] {logging_mixin.py:103} INFO - [2020-12-20 05:16:37,843] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:16:37,872] {logging_mixin.py:103} INFO - [2020-12-20 05:16:37,872] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:16:37,884] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.050 seconds
+[2020-12-20 05:17:31,657] {scheduler_job.py:181} INFO - Started process (PID=65852) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:17:31,657] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:17:31,657] {logging_mixin.py:103} INFO - [2020-12-20 05:17:31,657] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:17:31,663] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:17:31,663] {logging_mixin.py:103} INFO - [2020-12-20 05:17:31,663] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:17:31,690] {logging_mixin.py:103} INFO - [2020-12-20 05:17:31,690] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:17:31,702] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.046 seconds
+[2020-12-20 05:18:27,194] {scheduler_job.py:181} INFO - Started process (PID=66137) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:18:27,194] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:18:27,194] {logging_mixin.py:103} INFO - [2020-12-20 05:18:27,194] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:18:27,201] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:18:27,201] {logging_mixin.py:103} INFO - [2020-12-20 05:18:27,201] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:18:27,232] {logging_mixin.py:103} INFO - [2020-12-20 05:18:27,232] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:18:27,245] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.052 seconds
+[2020-12-20 05:19:21,486] {scheduler_job.py:181} INFO - Started process (PID=66419) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:19:21,486] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:19:21,486] {logging_mixin.py:103} INFO - [2020-12-20 05:19:21,486] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:19:21,491] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:19:21,492] {logging_mixin.py:103} INFO - [2020-12-20 05:19:21,492] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:19:21,516] {logging_mixin.py:103} INFO - [2020-12-20 05:19:21,515] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:19:21,527] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.041 seconds
+[2020-12-20 05:20:18,503] {scheduler_job.py:181} INFO - Started process (PID=66713) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:20:18,503] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:20:18,504] {logging_mixin.py:103} INFO - [2020-12-20 05:20:18,504] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:20:18,514] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:20:18,515] {logging_mixin.py:103} INFO - [2020-12-20 05:20:18,515] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:20:18,544] {logging_mixin.py:103} INFO - [2020-12-20 05:20:18,544] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:20:18,553] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.050 seconds
+[2020-12-20 05:21:13,858] {scheduler_job.py:181} INFO - Started process (PID=67006) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:21:13,858] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:21:13,858] {logging_mixin.py:103} INFO - [2020-12-20 05:21:13,858] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:21:13,864] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:21:13,864] {logging_mixin.py:103} INFO - [2020-12-20 05:21:13,864] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:21:13,896] {logging_mixin.py:103} INFO - [2020-12-20 05:21:13,896] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:21:13,910] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.052 seconds
+[2020-12-20 05:22:09,145] {scheduler_job.py:181} INFO - Started process (PID=67291) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:22:09,145] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:22:09,146] {logging_mixin.py:103} INFO - [2020-12-20 05:22:09,146] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:22:09,152] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:22:09,152] {logging_mixin.py:103} INFO - [2020-12-20 05:22:09,152] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:22:09,180] {logging_mixin.py:103} INFO - [2020-12-20 05:22:09,180] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:22:09,192] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.047 seconds
+[2020-12-20 05:23:04,222] {scheduler_job.py:181} INFO - Started process (PID=67577) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:23:04,222] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:23:04,223] {logging_mixin.py:103} INFO - [2020-12-20 05:23:04,223] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:23:04,228] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:23:04,229] {logging_mixin.py:103} INFO - [2020-12-20 05:23:04,228] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:23:04,257] {logging_mixin.py:103} INFO - [2020-12-20 05:23:04,257] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:23:04,269] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.048 seconds
+[2020-12-20 05:23:59,316] {scheduler_job.py:181} INFO - Started process (PID=67866) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:23:59,316] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:23:59,317] {logging_mixin.py:103} INFO - [2020-12-20 05:23:59,317] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:23:59,323] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:23:59,323] {logging_mixin.py:103} INFO - [2020-12-20 05:23:59,323] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:23:59,352] {logging_mixin.py:103} INFO - [2020-12-20 05:23:59,352] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:23:59,364] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.049 seconds
+[2020-12-20 05:24:54,447] {scheduler_job.py:181} INFO - Started process (PID=68154) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:24:54,447] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:24:54,447] {logging_mixin.py:103} INFO - [2020-12-20 05:24:54,447] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:24:54,452] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:24:54,453] {logging_mixin.py:103} INFO - [2020-12-20 05:24:54,453] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:24:54,478] {logging_mixin.py:103} INFO - [2020-12-20 05:24:54,478] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:24:54,490] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.044 seconds
+[2020-12-20 05:25:49,884] {scheduler_job.py:181} INFO - Started process (PID=68439) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:25:49,885] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:25:49,885] {logging_mixin.py:103} INFO - [2020-12-20 05:25:49,885] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:25:49,891] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:25:49,892] {logging_mixin.py:103} INFO - [2020-12-20 05:25:49,892] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:25:49,919] {logging_mixin.py:103} INFO - [2020-12-20 05:25:49,919] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:25:49,929] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.046 seconds
+[2020-12-20 05:26:44,759] {scheduler_job.py:181} INFO - Started process (PID=68722) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:26:44,759] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:26:44,760] {logging_mixin.py:103} INFO - [2020-12-20 05:26:44,760] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:26:44,766] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:26:44,766] {logging_mixin.py:103} INFO - [2020-12-20 05:26:44,766] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:26:44,795] {logging_mixin.py:103} INFO - [2020-12-20 05:26:44,795] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:26:44,807] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.048 seconds
+[2020-12-20 05:27:42,520] {scheduler_job.py:181} INFO - Started process (PID=69011) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:27:42,521] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:27:42,521] {logging_mixin.py:103} INFO - [2020-12-20 05:27:42,521] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:27:42,530] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:27:42,530] {logging_mixin.py:103} INFO - [2020-12-20 05:27:42,530] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:27:42,559] {logging_mixin.py:103} INFO - [2020-12-20 05:27:42,558] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:27:42,571] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.051 seconds
+[2020-12-20 05:28:36,775] {scheduler_job.py:181} INFO - Started process (PID=69295) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:28:36,776] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:28:36,776] {logging_mixin.py:103} INFO - [2020-12-20 05:28:36,776] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:28:36,782] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:28:36,782] {logging_mixin.py:103} INFO - [2020-12-20 05:28:36,782] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:28:36,806] {logging_mixin.py:103} INFO - [2020-12-20 05:28:36,806] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:28:36,817] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.043 seconds
+[2020-12-20 05:29:30,988] {scheduler_job.py:181} INFO - Started process (PID=69582) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:29:30,989] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2020-12-20 05:29:30,989] {logging_mixin.py:103} INFO - [2020-12-20 05:29:30,989] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:29:30,994] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_kubernetes_executor']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2020-12-20 05:29:30,995] {logging_mixin.py:103} INFO - [2020-12-20 05:29:30,995] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:29:31,023] {logging_mixin.py:103} INFO - [2020-12-20 05:29:31,023] {dag.py:2266} INFO - Setting next_dagrun for example_kubernetes_executor to None
+[2020-12-20 05:29:31,036] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 0.048 seconds

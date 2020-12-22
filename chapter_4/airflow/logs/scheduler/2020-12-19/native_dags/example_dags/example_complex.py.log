@@ -1,0 +1,371 @@
+[2020-12-20 04:42:04,235] {scheduler_job.py:181} INFO - Started process (PID=54476) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:42:04,236] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:42:04,236] {logging_mixin.py:103} INFO - [2020-12-20 04:42:04,236] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:42:04,244] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:42:04,245] {logging_mixin.py:103} INFO - [2020-12-20 04:42:04,245] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:42:04,273] {logging_mixin.py:103} INFO - [2020-12-20 04:42:04,273] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:42:04,287] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2020-12-20 04:42:59,833] {scheduler_job.py:181} INFO - Started process (PID=54777) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:42:59,834] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:42:59,834] {logging_mixin.py:103} INFO - [2020-12-20 04:42:59,834] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:42:59,844] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:42:59,846] {logging_mixin.py:103} INFO - [2020-12-20 04:42:59,846] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:42:59,876] {logging_mixin.py:103} INFO - [2020-12-20 04:42:59,876] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:42:59,893] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2020-12-20 04:43:59,233] {scheduler_job.py:181} INFO - Started process (PID=55076) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:43:59,233] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:43:59,234] {logging_mixin.py:103} INFO - [2020-12-20 04:43:59,234] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:43:59,247] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:43:59,251] {logging_mixin.py:103} INFO - [2020-12-20 04:43:59,251] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:43:59,305] {logging_mixin.py:103} INFO - [2020-12-20 04:43:59,305] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:43:59,333] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2020-12-20 04:45:09,028] {scheduler_job.py:181} INFO - Started process (PID=55366) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:45:09,028] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:45:09,028] {logging_mixin.py:103} INFO - [2020-12-20 04:45:09,028] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:45:09,036] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:45:09,037] {logging_mixin.py:103} INFO - [2020-12-20 04:45:09,037] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:45:09,061] {logging_mixin.py:103} INFO - [2020-12-20 04:45:09,061] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:45:09,076] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2020-12-20 04:46:01,309] {scheduler_job.py:181} INFO - Started process (PID=55652) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:46:01,309] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:46:01,310] {logging_mixin.py:103} INFO - [2020-12-20 04:46:01,310] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:46:01,317] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:46:01,319] {logging_mixin.py:103} INFO - [2020-12-20 04:46:01,318] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:46:01,342] {logging_mixin.py:103} INFO - [2020-12-20 04:46:01,342] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:46:01,357] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2020-12-20 04:46:55,531] {scheduler_job.py:181} INFO - Started process (PID=55935) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:46:55,531] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:46:55,531] {logging_mixin.py:103} INFO - [2020-12-20 04:46:55,531] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:46:55,539] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:46:55,540] {logging_mixin.py:103} INFO - [2020-12-20 04:46:55,540] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:46:55,565] {logging_mixin.py:103} INFO - [2020-12-20 04:46:55,565] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:46:55,580] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2020-12-20 04:47:48,869] {scheduler_job.py:181} INFO - Started process (PID=56220) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:47:48,870] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:47:48,870] {logging_mixin.py:103} INFO - [2020-12-20 04:47:48,870] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:47:48,878] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:47:48,880] {logging_mixin.py:103} INFO - [2020-12-20 04:47:48,880] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:47:48,904] {logging_mixin.py:103} INFO - [2020-12-20 04:47:48,904] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:47:48,918] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2020-12-20 04:48:42,572] {scheduler_job.py:181} INFO - Started process (PID=56506) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:48:42,573] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:48:42,573] {logging_mixin.py:103} INFO - [2020-12-20 04:48:42,573] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:48:42,581] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:48:42,582] {logging_mixin.py:103} INFO - [2020-12-20 04:48:42,582] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:48:42,607] {logging_mixin.py:103} INFO - [2020-12-20 04:48:42,607] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:48:42,622] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2020-12-20 04:49:36,020] {scheduler_job.py:181} INFO - Started process (PID=56790) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:49:36,020] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:49:36,020] {logging_mixin.py:103} INFO - [2020-12-20 04:49:36,020] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:49:36,028] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:49:36,030] {logging_mixin.py:103} INFO - [2020-12-20 04:49:36,030] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:49:36,059] {logging_mixin.py:103} INFO - [2020-12-20 04:49:36,059] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:49:36,076] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2020-12-20 04:50:29,831] {scheduler_job.py:181} INFO - Started process (PID=57077) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:50:29,831] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:50:29,831] {logging_mixin.py:103} INFO - [2020-12-20 04:50:29,831] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:50:29,840] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:50:29,842] {logging_mixin.py:103} INFO - [2020-12-20 04:50:29,842] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:50:29,868] {logging_mixin.py:103} INFO - [2020-12-20 04:50:29,868] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:50:29,885] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2020-12-20 04:51:23,520] {scheduler_job.py:181} INFO - Started process (PID=57361) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:51:23,521] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:51:23,521] {logging_mixin.py:103} INFO - [2020-12-20 04:51:23,521] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:51:23,528] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:51:23,530] {logging_mixin.py:103} INFO - [2020-12-20 04:51:23,530] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:51:23,554] {logging_mixin.py:103} INFO - [2020-12-20 04:51:23,554] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:51:23,568] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2020-12-20 04:52:13,898] {scheduler_job.py:181} INFO - Started process (PID=57644) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:52:13,898] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:52:13,899] {logging_mixin.py:103} INFO - [2020-12-20 04:52:13,898] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:52:13,906] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:52:13,907] {logging_mixin.py:103} INFO - [2020-12-20 04:52:13,907] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:52:13,932] {logging_mixin.py:103} INFO - [2020-12-20 04:52:13,932] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:52:13,946] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2020-12-20 04:53:07,823] {scheduler_job.py:181} INFO - Started process (PID=57933) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:53:07,823] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:53:07,824] {logging_mixin.py:103} INFO - [2020-12-20 04:53:07,823] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:53:07,832] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:53:07,833] {logging_mixin.py:103} INFO - [2020-12-20 04:53:07,833] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:53:07,860] {logging_mixin.py:103} INFO - [2020-12-20 04:53:07,860] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:53:07,875] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2020-12-20 04:54:01,990] {scheduler_job.py:181} INFO - Started process (PID=58219) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:54:01,991] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:54:01,991] {logging_mixin.py:103} INFO - [2020-12-20 04:54:01,991] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:54:01,999] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:54:02,000] {logging_mixin.py:103} INFO - [2020-12-20 04:54:02,000] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:54:02,025] {logging_mixin.py:103} INFO - [2020-12-20 04:54:02,025] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:54:02,041] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2020-12-20 04:54:55,970] {scheduler_job.py:181} INFO - Started process (PID=58511) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:54:55,970] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:54:55,970] {logging_mixin.py:103} INFO - [2020-12-20 04:54:55,970] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:54:55,979] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:54:55,980] {logging_mixin.py:103} INFO - [2020-12-20 04:54:55,980] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:54:56,004] {logging_mixin.py:103} INFO - [2020-12-20 04:54:56,004] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:54:56,020] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2020-12-20 04:55:50,320] {scheduler_job.py:181} INFO - Started process (PID=58792) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:55:50,320] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:55:50,320] {logging_mixin.py:103} INFO - [2020-12-20 04:55:50,320] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:55:50,328] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:55:50,330] {logging_mixin.py:103} INFO - [2020-12-20 04:55:50,329] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:55:50,353] {logging_mixin.py:103} INFO - [2020-12-20 04:55:50,353] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:55:50,369] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2020-12-20 04:56:44,229] {scheduler_job.py:181} INFO - Started process (PID=59074) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:56:44,229] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:56:44,230] {logging_mixin.py:103} INFO - [2020-12-20 04:56:44,230] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:56:44,237] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:56:44,238] {logging_mixin.py:103} INFO - [2020-12-20 04:56:44,238] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:56:44,262] {logging_mixin.py:103} INFO - [2020-12-20 04:56:44,261] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:56:44,277] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2020-12-20 04:57:38,123] {scheduler_job.py:181} INFO - Started process (PID=59357) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:57:38,124] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:57:38,124] {logging_mixin.py:103} INFO - [2020-12-20 04:57:38,124] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:57:38,131] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:57:38,133] {logging_mixin.py:103} INFO - [2020-12-20 04:57:38,132] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:57:38,156] {logging_mixin.py:103} INFO - [2020-12-20 04:57:38,156] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:57:38,170] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2020-12-20 04:58:31,782] {scheduler_job.py:181} INFO - Started process (PID=59639) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:58:31,782] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:58:31,783] {logging_mixin.py:103} INFO - [2020-12-20 04:58:31,783] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:58:31,790] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:58:31,791] {logging_mixin.py:103} INFO - [2020-12-20 04:58:31,791] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:58:31,815] {logging_mixin.py:103} INFO - [2020-12-20 04:58:31,815] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:58:31,830] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2020-12-20 04:59:25,757] {scheduler_job.py:181} INFO - Started process (PID=59921) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:59:25,758] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 04:59:25,758] {logging_mixin.py:103} INFO - [2020-12-20 04:59:25,758] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:59:25,765] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 04:59:25,767] {logging_mixin.py:103} INFO - [2020-12-20 04:59:25,767] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:59:25,791] {logging_mixin.py:103} INFO - [2020-12-20 04:59:25,791] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 04:59:25,807] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2020-12-20 05:00:19,919] {scheduler_job.py:181} INFO - Started process (PID=60208) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:00:19,919] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:00:19,920] {logging_mixin.py:103} INFO - [2020-12-20 05:00:19,919] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:00:19,928] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:00:19,930] {logging_mixin.py:103} INFO - [2020-12-20 05:00:19,930] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:00:19,958] {logging_mixin.py:103} INFO - [2020-12-20 05:00:19,958] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:00:19,973] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2020-12-20 05:01:13,919] {scheduler_job.py:181} INFO - Started process (PID=60491) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:01:13,919] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:01:13,919] {logging_mixin.py:103} INFO - [2020-12-20 05:01:13,919] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:01:13,926] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:01:13,927] {logging_mixin.py:103} INFO - [2020-12-20 05:01:13,927] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:01:13,951] {logging_mixin.py:103} INFO - [2020-12-20 05:01:13,951] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:01:13,965] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2020-12-20 05:02:05,419] {scheduler_job.py:181} INFO - Started process (PID=60777) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:02:05,419] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:02:05,420] {logging_mixin.py:103} INFO - [2020-12-20 05:02:05,419] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:02:05,428] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:02:05,429] {logging_mixin.py:103} INFO - [2020-12-20 05:02:05,429] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:02:05,456] {logging_mixin.py:103} INFO - [2020-12-20 05:02:05,456] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:02:05,471] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2020-12-20 05:02:59,564] {scheduler_job.py:181} INFO - Started process (PID=61065) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:02:59,565] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:02:59,565] {logging_mixin.py:103} INFO - [2020-12-20 05:02:59,565] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:02:59,573] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:02:59,574] {logging_mixin.py:103} INFO - [2020-12-20 05:02:59,574] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:02:59,598] {logging_mixin.py:103} INFO - [2020-12-20 05:02:59,597] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:02:59,612] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2020-12-20 05:03:53,726] {scheduler_job.py:181} INFO - Started process (PID=61348) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:03:53,726] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:03:53,727] {logging_mixin.py:103} INFO - [2020-12-20 05:03:53,726] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:03:53,736] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:03:53,737] {logging_mixin.py:103} INFO - [2020-12-20 05:03:53,737] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:03:53,764] {logging_mixin.py:103} INFO - [2020-12-20 05:03:53,764] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:03:53,780] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2020-12-20 05:04:47,753] {scheduler_job.py:181} INFO - Started process (PID=61634) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:04:47,754] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:04:47,754] {logging_mixin.py:103} INFO - [2020-12-20 05:04:47,754] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:04:47,761] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:04:47,762] {logging_mixin.py:103} INFO - [2020-12-20 05:04:47,762] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:04:47,786] {logging_mixin.py:103} INFO - [2020-12-20 05:04:47,786] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:04:47,801] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2020-12-20 05:05:41,503] {scheduler_job.py:181} INFO - Started process (PID=61921) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:05:41,503] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:05:41,503] {logging_mixin.py:103} INFO - [2020-12-20 05:05:41,503] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:05:41,511] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:05:41,512] {logging_mixin.py:103} INFO - [2020-12-20 05:05:41,512] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:05:41,535] {logging_mixin.py:103} INFO - [2020-12-20 05:05:41,535] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:05:41,552] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2020-12-20 05:06:35,926] {scheduler_job.py:181} INFO - Started process (PID=62204) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:06:35,926] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:06:35,927] {logging_mixin.py:103} INFO - [2020-12-20 05:06:35,927] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:06:35,934] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:06:35,935] {logging_mixin.py:103} INFO - [2020-12-20 05:06:35,935] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:06:35,960] {logging_mixin.py:103} INFO - [2020-12-20 05:06:35,960] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:06:35,976] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2020-12-20 05:07:29,187] {scheduler_job.py:181} INFO - Started process (PID=62486) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:07:29,187] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:07:29,187] {logging_mixin.py:103} INFO - [2020-12-20 05:07:29,187] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:07:29,195] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:07:29,196] {logging_mixin.py:103} INFO - [2020-12-20 05:07:29,196] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:07:29,219] {logging_mixin.py:103} INFO - [2020-12-20 05:07:29,219] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:07:29,234] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2020-12-20 05:08:24,481] {scheduler_job.py:181} INFO - Started process (PID=62774) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:08:24,482] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:08:24,482] {logging_mixin.py:103} INFO - [2020-12-20 05:08:24,482] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:08:24,490] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:08:24,491] {logging_mixin.py:103} INFO - [2020-12-20 05:08:24,491] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:08:24,515] {logging_mixin.py:103} INFO - [2020-12-20 05:08:24,515] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:08:24,532] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2020-12-20 05:09:18,390] {scheduler_job.py:181} INFO - Started process (PID=63063) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:09:18,391] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:09:18,391] {logging_mixin.py:103} INFO - [2020-12-20 05:09:18,391] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:09:18,399] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:09:18,400] {logging_mixin.py:103} INFO - [2020-12-20 05:09:18,400] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:09:18,424] {logging_mixin.py:103} INFO - [2020-12-20 05:09:18,423] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:09:18,438] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2020-12-20 05:10:12,793] {scheduler_job.py:181} INFO - Started process (PID=63350) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:10:12,793] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:10:12,793] {logging_mixin.py:103} INFO - [2020-12-20 05:10:12,793] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:10:12,801] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:10:12,803] {logging_mixin.py:103} INFO - [2020-12-20 05:10:12,803] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:10:12,827] {logging_mixin.py:103} INFO - [2020-12-20 05:10:12,826] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:10:12,841] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2020-12-20 05:11:06,997] {scheduler_job.py:181} INFO - Started process (PID=63632) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:11:06,997] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:11:06,997] {logging_mixin.py:103} INFO - [2020-12-20 05:11:06,997] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:11:07,005] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:11:07,007] {logging_mixin.py:103} INFO - [2020-12-20 05:11:07,007] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:11:07,034] {logging_mixin.py:103} INFO - [2020-12-20 05:11:07,033] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:11:07,049] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2020-12-20 05:11:58,444] {scheduler_job.py:181} INFO - Started process (PID=63917) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:11:58,445] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:11:58,445] {logging_mixin.py:103} INFO - [2020-12-20 05:11:58,445] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:11:58,452] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:11:58,453] {logging_mixin.py:103} INFO - [2020-12-20 05:11:58,453] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:11:58,477] {logging_mixin.py:103} INFO - [2020-12-20 05:11:58,477] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:11:58,492] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2020-12-20 05:12:52,138] {scheduler_job.py:181} INFO - Started process (PID=64199) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:12:52,138] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:12:52,139] {logging_mixin.py:103} INFO - [2020-12-20 05:12:52,138] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:12:52,146] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:12:52,148] {logging_mixin.py:103} INFO - [2020-12-20 05:12:52,147] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:12:52,171] {logging_mixin.py:103} INFO - [2020-12-20 05:12:52,171] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:12:52,186] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2020-12-20 05:13:45,972] {scheduler_job.py:181} INFO - Started process (PID=64482) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:13:45,973] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:13:45,973] {logging_mixin.py:103} INFO - [2020-12-20 05:13:45,973] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:13:45,981] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:13:45,983] {logging_mixin.py:103} INFO - [2020-12-20 05:13:45,983] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:13:46,007] {logging_mixin.py:103} INFO - [2020-12-20 05:13:46,007] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:13:46,021] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2020-12-20 05:14:39,897] {scheduler_job.py:181} INFO - Started process (PID=64765) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:14:39,898] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:14:39,899] {logging_mixin.py:103} INFO - [2020-12-20 05:14:39,899] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:14:39,908] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:14:39,909] {logging_mixin.py:103} INFO - [2020-12-20 05:14:39,909] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:14:39,935] {logging_mixin.py:103} INFO - [2020-12-20 05:14:39,935] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:14:39,949] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2020-12-20 05:15:30,849] {scheduler_job.py:181} INFO - Started process (PID=65054) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:15:30,849] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:15:30,849] {logging_mixin.py:103} INFO - [2020-12-20 05:15:30,849] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:15:30,858] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:15:30,860] {logging_mixin.py:103} INFO - [2020-12-20 05:15:30,860] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:15:30,887] {logging_mixin.py:103} INFO - [2020-12-20 05:15:30,887] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:15:30,902] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2020-12-20 05:16:24,597] {scheduler_job.py:181} INFO - Started process (PID=65335) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:16:24,598] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:16:24,598] {logging_mixin.py:103} INFO - [2020-12-20 05:16:24,598] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:16:24,606] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:16:24,607] {logging_mixin.py:103} INFO - [2020-12-20 05:16:24,607] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:16:24,632] {logging_mixin.py:103} INFO - [2020-12-20 05:16:24,632] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:16:24,646] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2020-12-20 05:17:18,741] {scheduler_job.py:181} INFO - Started process (PID=65619) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:17:18,742] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:17:18,742] {logging_mixin.py:103} INFO - [2020-12-20 05:17:18,742] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:17:18,751] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:17:18,753] {logging_mixin.py:103} INFO - [2020-12-20 05:17:18,753] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:17:18,777] {logging_mixin.py:103} INFO - [2020-12-20 05:17:18,777] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:17:18,791] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2020-12-20 05:18:12,567] {scheduler_job.py:181} INFO - Started process (PID=65904) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:18:12,567] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:18:12,568] {logging_mixin.py:103} INFO - [2020-12-20 05:18:12,568] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:18:12,575] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:18:12,577] {logging_mixin.py:103} INFO - [2020-12-20 05:18:12,577] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:18:12,601] {logging_mixin.py:103} INFO - [2020-12-20 05:18:12,601] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:18:12,615] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2020-12-20 05:19:08,752] {scheduler_job.py:181} INFO - Started process (PID=66190) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:19:08,752] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:19:08,753] {logging_mixin.py:103} INFO - [2020-12-20 05:19:08,753] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:19:08,760] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:19:08,762] {logging_mixin.py:103} INFO - [2020-12-20 05:19:08,762] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:19:08,786] {logging_mixin.py:103} INFO - [2020-12-20 05:19:08,786] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:19:08,800] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2020-12-20 05:20:03,114] {scheduler_job.py:181} INFO - Started process (PID=66480) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:20:03,114] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:20:03,114] {logging_mixin.py:103} INFO - [2020-12-20 05:20:03,114] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:20:03,124] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:20:03,125] {logging_mixin.py:103} INFO - [2020-12-20 05:20:03,125] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:20:03,153] {logging_mixin.py:103} INFO - [2020-12-20 05:20:03,153] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:20:03,170] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2020-12-20 05:21:00,464] {scheduler_job.py:181} INFO - Started process (PID=66774) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:21:00,465] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:21:00,465] {logging_mixin.py:103} INFO - [2020-12-20 05:21:00,465] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:21:00,475] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:21:00,477] {logging_mixin.py:103} INFO - [2020-12-20 05:21:00,476] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:21:00,506] {logging_mixin.py:103} INFO - [2020-12-20 05:21:00,506] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:21:00,522] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.059 seconds
+[2020-12-20 05:21:55,921] {scheduler_job.py:181} INFO - Started process (PID=67058) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:21:55,921] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:21:55,921] {logging_mixin.py:103} INFO - [2020-12-20 05:21:55,921] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:21:55,931] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:21:55,932] {logging_mixin.py:103} INFO - [2020-12-20 05:21:55,932] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:21:55,961] {logging_mixin.py:103} INFO - [2020-12-20 05:21:55,960] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:21:55,978] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2020-12-20 05:22:51,058] {scheduler_job.py:181} INFO - Started process (PID=67347) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:22:51,059] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:22:51,059] {logging_mixin.py:103} INFO - [2020-12-20 05:22:51,059] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:22:51,068] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:22:51,069] {logging_mixin.py:103} INFO - [2020-12-20 05:22:51,069] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:22:51,096] {logging_mixin.py:103} INFO - [2020-12-20 05:22:51,096] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:22:51,112] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2020-12-20 05:23:46,214] {scheduler_job.py:181} INFO - Started process (PID=67634) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:23:46,214] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:23:46,215] {logging_mixin.py:103} INFO - [2020-12-20 05:23:46,215] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:23:46,223] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:23:46,225] {logging_mixin.py:103} INFO - [2020-12-20 05:23:46,225] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:23:46,251] {logging_mixin.py:103} INFO - [2020-12-20 05:23:46,251] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:23:46,269] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2020-12-20 05:24:41,246] {scheduler_job.py:181} INFO - Started process (PID=67922) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:24:41,247] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:24:41,247] {logging_mixin.py:103} INFO - [2020-12-20 05:24:41,247] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:24:41,256] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:24:41,257] {logging_mixin.py:103} INFO - [2020-12-20 05:24:41,257] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:24:41,284] {logging_mixin.py:103} INFO - [2020-12-20 05:24:41,284] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:24:41,302] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2020-12-20 05:25:36,327] {scheduler_job.py:181} INFO - Started process (PID=68209) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:25:36,327] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:25:36,328] {logging_mixin.py:103} INFO - [2020-12-20 05:25:36,328] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:25:36,337] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:25:36,338] {logging_mixin.py:103} INFO - [2020-12-20 05:25:36,338] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:25:36,365] {logging_mixin.py:103} INFO - [2020-12-20 05:25:36,365] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:25:36,379] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2020-12-20 05:26:31,637] {scheduler_job.py:181} INFO - Started process (PID=68492) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:26:31,637] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:26:31,637] {logging_mixin.py:103} INFO - [2020-12-20 05:26:31,637] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:26:31,646] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:26:31,647] {logging_mixin.py:103} INFO - [2020-12-20 05:26:31,647] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:26:31,675] {logging_mixin.py:103} INFO - [2020-12-20 05:26:31,675] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:26:31,692] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2020-12-20 05:27:26,982] {scheduler_job.py:181} INFO - Started process (PID=68782) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:27:26,983] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:27:26,983] {logging_mixin.py:103} INFO - [2020-12-20 05:27:26,983] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:27:26,993] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:27:26,995] {logging_mixin.py:103} INFO - [2020-12-20 05:27:26,994] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:27:27,021] {logging_mixin.py:103} INFO - [2020-12-20 05:27:27,021] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:27:27,036] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2020-12-20 05:28:23,918] {scheduler_job.py:181} INFO - Started process (PID=69064) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:28:23,918] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:28:23,919] {logging_mixin.py:103} INFO - [2020-12-20 05:28:23,918] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:28:23,926] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:28:23,927] {logging_mixin.py:103} INFO - [2020-12-20 05:28:23,927] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:28:23,952] {logging_mixin.py:103} INFO - [2020-12-20 05:28:23,952] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:28:23,967] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2020-12-20 05:29:17,809] {scheduler_job.py:181} INFO - Started process (PID=69350) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:29:17,810] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2020-12-20 05:29:17,810] {logging_mixin.py:103} INFO - [2020-12-20 05:29:17,810] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:29:17,818] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2020-12-20 05:29:17,820] {logging_mixin.py:103} INFO - [2020-12-20 05:29:17,820] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:29:17,846] {logging_mixin.py:103} INFO - [2020-12-20 05:29:17,846] {dag.py:2266} INFO - Setting next_dagrun for example_complex to None
+[2020-12-20 05:29:17,864] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds

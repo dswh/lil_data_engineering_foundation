@@ -1,0 +1,378 @@
+[2020-12-20 04:41:40,183] {scheduler_job.py:181} INFO - Started process (PID=54444) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:41:40,184] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:41:40,184] {logging_mixin.py:103} INFO - [2020-12-20 04:41:40,184] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:41:40,189] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:41:40,190] {logging_mixin.py:103} INFO - [2020-12-20 04:41:40,189] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:41:40,215] {logging_mixin.py:103} INFO - [2020-12-20 04:41:40,215] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:41:40,223] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.040 seconds
+[2020-12-20 04:42:35,309] {scheduler_job.py:181} INFO - Started process (PID=54746) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:42:35,310] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:42:35,310] {logging_mixin.py:103} INFO - [2020-12-20 04:42:35,310] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:42:35,316] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:42:35,316] {logging_mixin.py:103} INFO - [2020-12-20 04:42:35,316] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:42:35,344] {logging_mixin.py:103} INFO - [2020-12-20 04:42:35,344] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:42:35,353] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2020-12-20 04:43:28,216] {scheduler_job.py:181} INFO - Started process (PID=55041) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:43:28,216] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:43:28,217] {logging_mixin.py:103} INFO - [2020-12-20 04:43:28,217] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:43:28,222] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:43:28,223] {logging_mixin.py:103} INFO - [2020-12-20 04:43:28,223] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:43:28,253] {logging_mixin.py:103} INFO - [2020-12-20 04:43:28,253] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:43:28,262] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.046 seconds
+[2020-12-20 04:44:44,927] {scheduler_job.py:181} INFO - Started process (PID=55331) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:44:44,928] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:44:44,928] {logging_mixin.py:103} INFO - [2020-12-20 04:44:44,928] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:44:44,939] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:44:44,940] {logging_mixin.py:103} INFO - [2020-12-20 04:44:44,940] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:44:44,976] {logging_mixin.py:103} INFO - [2020-12-20 04:44:44,976] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:44:44,990] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.065 seconds
+[2020-12-20 04:45:36,968] {scheduler_job.py:181} INFO - Started process (PID=55621) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:45:36,968] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:45:36,969] {logging_mixin.py:103} INFO - [2020-12-20 04:45:36,968] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:45:36,974] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:45:36,974] {logging_mixin.py:103} INFO - [2020-12-20 04:45:36,974] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:45:37,001] {logging_mixin.py:103} INFO - [2020-12-20 04:45:37,001] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:45:37,009] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.041 seconds
+[2020-12-20 04:46:31,556] {scheduler_job.py:181} INFO - Started process (PID=55904) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:46:31,556] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:46:31,557] {logging_mixin.py:103} INFO - [2020-12-20 04:46:31,557] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:46:31,561] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:46:31,561] {logging_mixin.py:103} INFO - [2020-12-20 04:46:31,561] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:46:31,587] {logging_mixin.py:103} INFO - [2020-12-20 04:46:31,587] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:46:31,594] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.038 seconds
+[2020-12-20 04:47:25,147] {scheduler_job.py:181} INFO - Started process (PID=56190) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:47:25,147] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:47:25,148] {logging_mixin.py:103} INFO - [2020-12-20 04:47:25,147] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:47:25,152] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:47:25,153] {logging_mixin.py:103} INFO - [2020-12-20 04:47:25,153] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:47:25,177] {logging_mixin.py:103} INFO - [2020-12-20 04:47:25,177] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:47:25,184] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.038 seconds
+[2020-12-20 04:48:18,765] {scheduler_job.py:181} INFO - Started process (PID=56477) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:48:18,766] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:48:18,766] {logging_mixin.py:103} INFO - [2020-12-20 04:48:18,766] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:48:18,771] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:48:18,771] {logging_mixin.py:103} INFO - [2020-12-20 04:48:18,771] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:48:18,800] {logging_mixin.py:103} INFO - [2020-12-20 04:48:18,800] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:48:18,809] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2020-12-20 04:49:12,249] {scheduler_job.py:181} INFO - Started process (PID=56760) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:49:12,249] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:49:12,249] {logging_mixin.py:103} INFO - [2020-12-20 04:49:12,249] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:49:12,254] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:49:12,254] {logging_mixin.py:103} INFO - [2020-12-20 04:49:12,254] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:49:12,279] {logging_mixin.py:103} INFO - [2020-12-20 04:49:12,279] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:49:12,286] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.038 seconds
+[2020-12-20 04:50:06,051] {scheduler_job.py:181} INFO - Started process (PID=57043) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:50:06,051] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:50:06,052] {logging_mixin.py:103} INFO - [2020-12-20 04:50:06,052] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:50:06,056] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:50:06,057] {logging_mixin.py:103} INFO - [2020-12-20 04:50:06,057] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:50:06,081] {logging_mixin.py:103} INFO - [2020-12-20 04:50:06,081] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:50:06,088] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.037 seconds
+[2020-12-20 04:50:59,710] {scheduler_job.py:181} INFO - Started process (PID=57328) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:50:59,710] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:50:59,710] {logging_mixin.py:103} INFO - [2020-12-20 04:50:59,710] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:50:59,715] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:50:59,716] {logging_mixin.py:103} INFO - [2020-12-20 04:50:59,716] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:50:59,743] {logging_mixin.py:103} INFO - [2020-12-20 04:50:59,743] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:50:59,750] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.041 seconds
+[2020-12-20 04:51:51,165] {scheduler_job.py:181} INFO - Started process (PID=57614) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:51:51,165] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:51:51,165] {logging_mixin.py:103} INFO - [2020-12-20 04:51:51,165] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:51:51,170] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:51:51,170] {logging_mixin.py:103} INFO - [2020-12-20 04:51:51,170] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:51:51,195] {logging_mixin.py:103} INFO - [2020-12-20 04:51:51,195] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:51:51,202] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.038 seconds
+[2020-12-20 04:52:43,916] {scheduler_job.py:181} INFO - Started process (PID=57899) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:52:43,916] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:52:43,916] {logging_mixin.py:103} INFO - [2020-12-20 04:52:43,916] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:52:43,920] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:52:43,921] {logging_mixin.py:103} INFO - [2020-12-20 04:52:43,921] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:52:43,946] {logging_mixin.py:103} INFO - [2020-12-20 04:52:43,946] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:52:43,954] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.039 seconds
+[2020-12-20 04:53:38,060] {scheduler_job.py:181} INFO - Started process (PID=58188) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:53:38,061] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:53:38,061] {logging_mixin.py:103} INFO - [2020-12-20 04:53:38,061] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:53:38,066] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:53:38,067] {logging_mixin.py:103} INFO - [2020-12-20 04:53:38,067] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:53:38,093] {logging_mixin.py:103} INFO - [2020-12-20 04:53:38,093] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:53:38,100] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.040 seconds
+[2020-12-20 04:54:31,979] {scheduler_job.py:181} INFO - Started process (PID=58478) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:54:31,980] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:54:31,980] {logging_mixin.py:103} INFO - [2020-12-20 04:54:31,980] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:54:31,984] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:54:31,985] {logging_mixin.py:103} INFO - [2020-12-20 04:54:31,985] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:54:32,010] {logging_mixin.py:103} INFO - [2020-12-20 04:54:32,010] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:54:32,017] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.038 seconds
+[2020-12-20 04:55:26,384] {scheduler_job.py:181} INFO - Started process (PID=58763) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:55:26,384] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:55:26,384] {logging_mixin.py:103} INFO - [2020-12-20 04:55:26,384] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:55:26,389] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:55:26,389] {logging_mixin.py:103} INFO - [2020-12-20 04:55:26,389] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:55:26,414] {logging_mixin.py:103} INFO - [2020-12-20 04:55:26,414] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:55:26,421] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.038 seconds
+[2020-12-20 04:56:20,310] {scheduler_job.py:181} INFO - Started process (PID=59043) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:56:20,310] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:56:20,311] {logging_mixin.py:103} INFO - [2020-12-20 04:56:20,311] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:56:20,316] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:56:20,316] {logging_mixin.py:103} INFO - [2020-12-20 04:56:20,316] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:56:20,339] {logging_mixin.py:103} INFO - [2020-12-20 04:56:20,339] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:56:20,346] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.037 seconds
+[2020-12-20 04:57:14,208] {scheduler_job.py:181} INFO - Started process (PID=59325) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:57:14,209] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:57:14,209] {logging_mixin.py:103} INFO - [2020-12-20 04:57:14,209] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:57:14,214] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:57:14,214] {logging_mixin.py:103} INFO - [2020-12-20 04:57:14,214] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:57:14,238] {logging_mixin.py:103} INFO - [2020-12-20 04:57:14,238] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:57:14,245] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.037 seconds
+[2020-12-20 04:58:07,968] {scheduler_job.py:181} INFO - Started process (PID=59609) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:58:07,969] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:58:07,969] {logging_mixin.py:103} INFO - [2020-12-20 04:58:07,969] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:58:07,974] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:58:07,974] {logging_mixin.py:103} INFO - [2020-12-20 04:58:07,974] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:58:08,000] {logging_mixin.py:103} INFO - [2020-12-20 04:58:08,000] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:58:08,008] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.040 seconds
+[2020-12-20 04:59:01,879] {scheduler_job.py:181} INFO - Started process (PID=59891) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:59:01,879] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:59:01,880] {logging_mixin.py:103} INFO - [2020-12-20 04:59:01,879] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:59:01,884] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:59:01,884] {logging_mixin.py:103} INFO - [2020-12-20 04:59:01,884] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:59:01,909] {logging_mixin.py:103} INFO - [2020-12-20 04:59:01,909] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:59:01,916] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.038 seconds
+[2020-12-20 04:59:55,942] {scheduler_job.py:181} INFO - Started process (PID=60172) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:59:55,942] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 04:59:55,943] {logging_mixin.py:103} INFO - [2020-12-20 04:59:55,943] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:59:55,947] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 04:59:55,948] {logging_mixin.py:103} INFO - [2020-12-20 04:59:55,948] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:59:55,972] {logging_mixin.py:103} INFO - [2020-12-20 04:59:55,972] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 04:59:55,979] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.037 seconds
+[2020-12-20 05:00:49,983] {scheduler_job.py:181} INFO - Started process (PID=60460) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:00:49,984] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:00:49,984] {logging_mixin.py:103} INFO - [2020-12-20 05:00:49,984] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:00:49,988] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:00:49,989] {logging_mixin.py:103} INFO - [2020-12-20 05:00:49,989] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:00:50,013] {logging_mixin.py:103} INFO - [2020-12-20 05:00:50,013] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:00:50,020] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.037 seconds
+[2020-12-20 05:01:42,550] {scheduler_job.py:181} INFO - Started process (PID=60742) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:01:42,550] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:01:42,550] {logging_mixin.py:103} INFO - [2020-12-20 05:01:42,550] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:01:42,555] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:01:42,555] {logging_mixin.py:103} INFO - [2020-12-20 05:01:42,555] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:01:42,578] {logging_mixin.py:103} INFO - [2020-12-20 05:01:42,578] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:01:42,586] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.036 seconds
+[2020-12-20 05:02:35,729] {scheduler_job.py:181} INFO - Started process (PID=61034) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:02:35,729] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:02:35,730] {logging_mixin.py:103} INFO - [2020-12-20 05:02:35,730] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:02:35,734] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:02:35,735] {logging_mixin.py:103} INFO - [2020-12-20 05:02:35,735] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:02:35,759] {logging_mixin.py:103} INFO - [2020-12-20 05:02:35,759] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:02:35,766] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.037 seconds
+[2020-12-20 05:03:29,843] {scheduler_job.py:181} INFO - Started process (PID=61318) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:03:29,844] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:03:29,844] {logging_mixin.py:103} INFO - [2020-12-20 05:03:29,844] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:03:29,850] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:03:29,850] {logging_mixin.py:103} INFO - [2020-12-20 05:03:29,850] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:03:29,878] {logging_mixin.py:103} INFO - [2020-12-20 05:03:29,878] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:03:29,886] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2020-12-20 05:04:23,925] {scheduler_job.py:181} INFO - Started process (PID=61604) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:04:23,926] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:04:23,926] {logging_mixin.py:103} INFO - [2020-12-20 05:04:23,926] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:04:23,930] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:04:23,931] {logging_mixin.py:103} INFO - [2020-12-20 05:04:23,930] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:04:23,957] {logging_mixin.py:103} INFO - [2020-12-20 05:04:23,957] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:04:23,965] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.040 seconds
+[2020-12-20 05:05:17,584] {scheduler_job.py:181} INFO - Started process (PID=61889) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:05:17,584] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:05:17,584] {logging_mixin.py:103} INFO - [2020-12-20 05:05:17,584] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:05:17,589] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:05:17,589] {logging_mixin.py:103} INFO - [2020-12-20 05:05:17,589] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:05:17,614] {logging_mixin.py:103} INFO - [2020-12-20 05:05:17,614] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:05:17,621] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.037 seconds
+[2020-12-20 05:06:11,845] {scheduler_job.py:181} INFO - Started process (PID=62173) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:06:11,845] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:06:11,845] {logging_mixin.py:103} INFO - [2020-12-20 05:06:11,845] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:06:11,850] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:06:11,850] {logging_mixin.py:103} INFO - [2020-12-20 05:06:11,850] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:06:11,875] {logging_mixin.py:103} INFO - [2020-12-20 05:06:11,875] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:06:11,883] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.038 seconds
+[2020-12-20 05:07:05,417] {scheduler_job.py:181} INFO - Started process (PID=62456) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:07:05,418] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:07:05,418] {logging_mixin.py:103} INFO - [2020-12-20 05:07:05,418] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:07:05,423] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:07:05,423] {logging_mixin.py:103} INFO - [2020-12-20 05:07:05,423] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:07:05,447] {logging_mixin.py:103} INFO - [2020-12-20 05:07:05,447] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:07:05,453] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.036 seconds
+[2020-12-20 05:07:59,849] {scheduler_job.py:181} INFO - Started process (PID=62743) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:07:59,850] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:07:59,850] {logging_mixin.py:103} INFO - [2020-12-20 05:07:59,850] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:07:59,856] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:07:59,856] {logging_mixin.py:103} INFO - [2020-12-20 05:07:59,856] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:07:59,884] {logging_mixin.py:103} INFO - [2020-12-20 05:07:59,884] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:07:59,892] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2020-12-20 05:08:54,517] {scheduler_job.py:181} INFO - Started process (PID=63030) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:08:54,517] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:08:54,518] {logging_mixin.py:103} INFO - [2020-12-20 05:08:54,518] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:08:54,524] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:08:54,524] {logging_mixin.py:103} INFO - [2020-12-20 05:08:54,524] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:08:54,554] {logging_mixin.py:103} INFO - [2020-12-20 05:08:54,554] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:08:54,564] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.047 seconds
+[2020-12-20 05:09:48,944] {scheduler_job.py:181} INFO - Started process (PID=63316) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:09:48,945] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:09:48,945] {logging_mixin.py:103} INFO - [2020-12-20 05:09:48,945] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:09:48,950] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:09:48,950] {logging_mixin.py:103} INFO - [2020-12-20 05:09:48,950] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:09:48,974] {logging_mixin.py:103} INFO - [2020-12-20 05:09:48,974] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:09:48,981] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.037 seconds
+[2020-12-20 05:10:42,812] {scheduler_job.py:181} INFO - Started process (PID=63601) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:10:42,812] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:10:42,813] {logging_mixin.py:103} INFO - [2020-12-20 05:10:42,812] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:10:42,817] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:10:42,817] {logging_mixin.py:103} INFO - [2020-12-20 05:10:42,817] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:10:42,846] {logging_mixin.py:103} INFO - [2020-12-20 05:10:42,846] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:10:42,855] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2020-12-20 05:11:36,825] {scheduler_job.py:181} INFO - Started process (PID=63886) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:11:36,825] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:11:36,825] {logging_mixin.py:103} INFO - [2020-12-20 05:11:36,825] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:11:36,830] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:11:36,831] {logging_mixin.py:103} INFO - [2020-12-20 05:11:36,830] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:11:36,858] {logging_mixin.py:103} INFO - [2020-12-20 05:11:36,858] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:11:36,867] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2020-12-20 05:12:28,296] {scheduler_job.py:181} INFO - Started process (PID=64170) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:12:28,296] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:12:28,296] {logging_mixin.py:103} INFO - [2020-12-20 05:12:28,296] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:12:28,301] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:12:28,301] {logging_mixin.py:103} INFO - [2020-12-20 05:12:28,301] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:12:28,326] {logging_mixin.py:103} INFO - [2020-12-20 05:12:28,326] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:12:28,333] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.038 seconds
+[2020-12-20 05:13:22,111] {scheduler_job.py:181} INFO - Started process (PID=64451) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:13:22,111] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:13:22,111] {logging_mixin.py:103} INFO - [2020-12-20 05:13:22,111] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:13:22,116] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:13:22,116] {logging_mixin.py:103} INFO - [2020-12-20 05:13:22,116] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:13:22,140] {logging_mixin.py:103} INFO - [2020-12-20 05:13:22,140] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:13:22,146] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.036 seconds
+[2020-12-20 05:14:15,961] {scheduler_job.py:181} INFO - Started process (PID=64735) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:14:15,961] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:14:15,962] {logging_mixin.py:103} INFO - [2020-12-20 05:14:15,962] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:14:15,967] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:14:15,967] {logging_mixin.py:103} INFO - [2020-12-20 05:14:15,967] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:14:15,994] {logging_mixin.py:103} INFO - [2020-12-20 05:14:15,994] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:14:16,001] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.041 seconds
+[2020-12-20 05:15:08,069] {scheduler_job.py:181} INFO - Started process (PID=65021) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:15:08,069] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:15:08,069] {logging_mixin.py:103} INFO - [2020-12-20 05:15:08,069] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:15:08,074] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:15:08,074] {logging_mixin.py:103} INFO - [2020-12-20 05:15:08,074] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:15:08,100] {logging_mixin.py:103} INFO - [2020-12-20 05:15:08,100] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:15:08,108] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.040 seconds
+[2020-12-20 05:16:00,672] {scheduler_job.py:181} INFO - Started process (PID=65304) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:16:00,672] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:16:00,673] {logging_mixin.py:103} INFO - [2020-12-20 05:16:00,673] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:16:00,677] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:16:00,678] {logging_mixin.py:103} INFO - [2020-12-20 05:16:00,678] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:16:00,704] {logging_mixin.py:103} INFO - [2020-12-20 05:16:00,704] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:16:00,712] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.040 seconds
+[2020-12-20 05:16:54,874] {scheduler_job.py:181} INFO - Started process (PID=65587) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:16:54,874] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:16:54,874] {logging_mixin.py:103} INFO - [2020-12-20 05:16:54,874] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:16:54,880] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:16:54,880] {logging_mixin.py:103} INFO - [2020-12-20 05:16:54,880] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:16:54,905] {logging_mixin.py:103} INFO - [2020-12-20 05:16:54,905] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:16:54,912] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.039 seconds
+[2020-12-20 05:17:48,725] {scheduler_job.py:181} INFO - Started process (PID=65874) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:17:48,726] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:17:48,726] {logging_mixin.py:103} INFO - [2020-12-20 05:17:48,726] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:17:48,732] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:17:48,732] {logging_mixin.py:103} INFO - [2020-12-20 05:17:48,732] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:17:48,761] {logging_mixin.py:103} INFO - [2020-12-20 05:17:48,760] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:17:48,768] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2020-12-20 05:18:44,118] {scheduler_job.py:181} INFO - Started process (PID=66159) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:18:44,118] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:18:44,118] {logging_mixin.py:103} INFO - [2020-12-20 05:18:44,118] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:18:44,124] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:18:44,125] {logging_mixin.py:103} INFO - [2020-12-20 05:18:44,125] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:18:44,154] {logging_mixin.py:103} INFO - [2020-12-20 05:18:44,154] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:18:44,163] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.046 seconds
+[2020-12-20 05:19:38,652] {scheduler_job.py:181} INFO - Started process (PID=66446) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:19:38,652] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:19:38,652] {logging_mixin.py:103} INFO - [2020-12-20 05:19:38,652] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:19:38,656] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:19:38,657] {logging_mixin.py:103} INFO - [2020-12-20 05:19:38,657] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:19:38,682] {logging_mixin.py:103} INFO - [2020-12-20 05:19:38,682] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:19:38,690] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.038 seconds
+[2020-12-20 05:20:35,991] {scheduler_job.py:181} INFO - Started process (PID=66742) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:20:35,992] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:20:35,993] {logging_mixin.py:103} INFO - [2020-12-20 05:20:35,992] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:20:35,999] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:20:35,999] {logging_mixin.py:103} INFO - [2020-12-20 05:20:35,999] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:20:36,030] {logging_mixin.py:103} INFO - [2020-12-20 05:20:36,030] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:20:36,039] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.048 seconds
+[2020-12-20 05:21:31,430] {scheduler_job.py:181} INFO - Started process (PID=67028) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:21:31,431] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:21:31,431] {logging_mixin.py:103} INFO - [2020-12-20 05:21:31,431] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:21:31,435] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:21:31,436] {logging_mixin.py:103} INFO - [2020-12-20 05:21:31,435] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:21:31,464] {logging_mixin.py:103} INFO - [2020-12-20 05:21:31,463] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:21:31,472] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.042 seconds
+[2020-12-20 05:22:26,565] {scheduler_job.py:181} INFO - Started process (PID=67313) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:22:26,565] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:22:26,566] {logging_mixin.py:103} INFO - [2020-12-20 05:22:26,566] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:22:26,571] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:22:26,571] {logging_mixin.py:103} INFO - [2020-12-20 05:22:26,571] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:22:26,598] {logging_mixin.py:103} INFO - [2020-12-20 05:22:26,598] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:22:26,605] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.041 seconds
+[2020-12-20 05:23:21,698] {scheduler_job.py:181} INFO - Started process (PID=67599) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:23:21,699] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:23:21,699] {logging_mixin.py:103} INFO - [2020-12-20 05:23:21,699] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:23:21,704] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:23:21,705] {logging_mixin.py:103} INFO - [2020-12-20 05:23:21,705] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:23:21,734] {logging_mixin.py:103} INFO - [2020-12-20 05:23:21,733] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:23:21,742] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2020-12-20 05:24:16,773] {scheduler_job.py:181} INFO - Started process (PID=67889) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:24:16,773] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:24:16,773] {logging_mixin.py:103} INFO - [2020-12-20 05:24:16,773] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:24:16,779] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:24:16,779] {logging_mixin.py:103} INFO - [2020-12-20 05:24:16,779] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:24:16,809] {logging_mixin.py:103} INFO - [2020-12-20 05:24:16,808] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:24:16,817] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.045 seconds
+[2020-12-20 05:25:11,866] {scheduler_job.py:181} INFO - Started process (PID=68179) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:25:11,866] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:25:11,867] {logging_mixin.py:103} INFO - [2020-12-20 05:25:11,867] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:25:11,872] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:25:11,872] {logging_mixin.py:103} INFO - [2020-12-20 05:25:11,872] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:25:11,902] {logging_mixin.py:103} INFO - [2020-12-20 05:25:11,902] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:25:11,911] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.045 seconds
+[2020-12-20 05:26:07,306] {scheduler_job.py:181} INFO - Started process (PID=68461) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:26:07,306] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:26:07,306] {logging_mixin.py:103} INFO - [2020-12-20 05:26:07,306] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:26:07,312] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:26:07,312] {logging_mixin.py:103} INFO - [2020-12-20 05:26:07,312] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:26:07,342] {logging_mixin.py:103} INFO - [2020-12-20 05:26:07,341] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:26:07,350] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.045 seconds
+[2020-12-20 05:27:02,081] {scheduler_job.py:181} INFO - Started process (PID=68744) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:27:02,082] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:27:02,082] {logging_mixin.py:103} INFO - [2020-12-20 05:27:02,082] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:27:02,087] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:27:02,088] {logging_mixin.py:103} INFO - [2020-12-20 05:27:02,088] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:27:02,117] {logging_mixin.py:103} INFO - [2020-12-20 05:27:02,116] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:27:02,125] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2020-12-20 05:27:59,633] {scheduler_job.py:181} INFO - Started process (PID=69033) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:27:59,634] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:27:59,634] {logging_mixin.py:103} INFO - [2020-12-20 05:27:59,634] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:27:59,640] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:27:59,640] {logging_mixin.py:103} INFO - [2020-12-20 05:27:59,640] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:27:59,665] {logging_mixin.py:103} INFO - [2020-12-20 05:27:59,665] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:27:59,672] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.039 seconds
+[2020-12-20 05:28:53,823] {scheduler_job.py:181} INFO - Started process (PID=69320) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:28:53,823] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:28:53,824] {logging_mixin.py:103} INFO - [2020-12-20 05:28:53,824] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:28:53,828] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:28:53,829] {logging_mixin.py:103} INFO - [2020-12-20 05:28:53,828] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:28:53,855] {logging_mixin.py:103} INFO - [2020-12-20 05:28:53,855] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:28:53,863] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.040 seconds
+[2020-12-20 05:29:48,065] {scheduler_job.py:181} INFO - Started process (PID=69603) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:29:48,065] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2020-12-20 05:29:48,066] {logging_mixin.py:103} INFO - [2020-12-20 05:29:48,066] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:29:48,071] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2020-12-20 05:29:48,072] {logging_mixin.py:103} INFO - [2020-12-20 05:29:48,072] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:29:48,100] {logging_mixin.py:103} INFO - [2020-12-20 05:29:48,100] {dag.py:2266} INFO - Setting next_dagrun for example_xcom to 2020-12-17 00:00:00+00:00
+[2020-12-20 05:29:48,108] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds

@@ -1,0 +1,372 @@
+[2020-12-20 04:42:07,817] {scheduler_job.py:181} INFO - Started process (PID=54480) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:42:07,817] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:42:07,817] {logging_mixin.py:103} INFO - [2020-12-20 04:42:07,817] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:42:16,937] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:42:16,938] {logging_mixin.py:103} INFO - [2020-12-20 04:42:16,938] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:42:16,974] {logging_mixin.py:103} INFO - [2020-12-20 04:42:16,974] {dag.py:1832} INFO - Creating ORM DAG for etl_pipeline
+[2020-12-20 04:42:16,981] {logging_mixin.py:103} INFO - [2020-12-20 04:42:16,981] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:42:16,997] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 9.180 seconds
+[2020-12-20 04:43:03,343] {scheduler_job.py:181} INFO - Started process (PID=54781) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:43:03,344] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:43:03,344] {logging_mixin.py:103} INFO - [2020-12-20 04:43:03,344] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:43:11,473] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:43:11,473] {logging_mixin.py:103} INFO - [2020-12-20 04:43:11,473] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:43:11,511] {logging_mixin.py:103} INFO - [2020-12-20 04:43:11,511] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:43:11,519] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 8.175 seconds
+[2020-12-20 04:44:03,881] {scheduler_job.py:181} INFO - Started process (PID=55081) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:44:03,883] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:44:03,883] {logging_mixin.py:103} INFO - [2020-12-20 04:44:03,883] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:44:21,612] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:44:21,614] {logging_mixin.py:103} INFO - [2020-12-20 04:44:21,613] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:44:21,689] {logging_mixin.py:103} INFO - [2020-12-20 04:44:21,689] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:44:21,702] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 17.822 seconds
+[2020-12-20 04:45:12,467] {scheduler_job.py:181} INFO - Started process (PID=55373) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:45:12,467] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:45:12,467] {logging_mixin.py:103} INFO - [2020-12-20 04:45:12,467] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:45:20,170] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:45:20,171] {logging_mixin.py:103} INFO - [2020-12-20 04:45:20,170] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:45:20,212] {logging_mixin.py:103} INFO - [2020-12-20 04:45:20,212] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:45:20,224] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.757 seconds
+[2020-12-20 04:46:04,783] {scheduler_job.py:181} INFO - Started process (PID=55657) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:46:04,783] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:46:04,784] {logging_mixin.py:103} INFO - [2020-12-20 04:46:04,783] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:46:12,763] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:46:12,764] {logging_mixin.py:103} INFO - [2020-12-20 04:46:12,764] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:46:12,808] {logging_mixin.py:103} INFO - [2020-12-20 04:46:12,808] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:46:12,820] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 8.037 seconds
+[2020-12-20 04:46:58,947] {scheduler_job.py:181} INFO - Started process (PID=55939) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:46:58,947] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:46:58,948] {logging_mixin.py:103} INFO - [2020-12-20 04:46:58,948] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:47:06,315] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:47:06,316] {logging_mixin.py:103} INFO - [2020-12-20 04:47:06,315] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:47:06,356] {logging_mixin.py:103} INFO - [2020-12-20 04:47:06,356] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:47:06,365] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.418 seconds
+[2020-12-20 04:47:52,261] {scheduler_job.py:181} INFO - Started process (PID=56224) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:47:52,262] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:47:52,262] {logging_mixin.py:103} INFO - [2020-12-20 04:47:52,262] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:47:59,921] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:47:59,921] {logging_mixin.py:103} INFO - [2020-12-20 04:47:59,921] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:47:59,962] {logging_mixin.py:103} INFO - [2020-12-20 04:47:59,962] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:47:59,971] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.709 seconds
+[2020-12-20 04:48:46,025] {scheduler_job.py:181} INFO - Started process (PID=56512) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:48:46,025] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:48:46,026] {logging_mixin.py:103} INFO - [2020-12-20 04:48:46,026] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:48:53,520] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:48:53,521] {logging_mixin.py:103} INFO - [2020-12-20 04:48:53,521] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:48:53,560] {logging_mixin.py:103} INFO - [2020-12-20 04:48:53,560] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:48:53,570] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.545 seconds
+[2020-12-20 04:49:39,445] {scheduler_job.py:181} INFO - Started process (PID=56794) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:49:39,446] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:49:39,446] {logging_mixin.py:103} INFO - [2020-12-20 04:49:39,446] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:49:47,240] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:49:47,241] {logging_mixin.py:103} INFO - [2020-12-20 04:49:47,241] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:49:47,286] {logging_mixin.py:103} INFO - [2020-12-20 04:49:47,286] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:49:47,295] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.850 seconds
+[2020-12-20 04:50:33,238] {scheduler_job.py:181} INFO - Started process (PID=57081) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:50:33,238] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:50:33,239] {logging_mixin.py:103} INFO - [2020-12-20 04:50:33,239] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:50:40,850] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:50:40,851] {logging_mixin.py:103} INFO - [2020-12-20 04:50:40,851] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:50:40,908] {logging_mixin.py:103} INFO - [2020-12-20 04:50:40,908] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:50:40,918] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.680 seconds
+[2020-12-20 04:51:26,940] {scheduler_job.py:181} INFO - Started process (PID=57365) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:51:26,940] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:51:26,940] {logging_mixin.py:103} INFO - [2020-12-20 04:51:26,940] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:51:34,689] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:51:34,690] {logging_mixin.py:103} INFO - [2020-12-20 04:51:34,689] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:51:34,732] {logging_mixin.py:103} INFO - [2020-12-20 04:51:34,732] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:51:34,742] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.802 seconds
+[2020-12-20 04:52:17,316] {scheduler_job.py:181} INFO - Started process (PID=57648) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:52:17,317] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:52:17,317] {logging_mixin.py:103} INFO - [2020-12-20 04:52:17,317] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:52:25,119] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:52:25,120] {logging_mixin.py:103} INFO - [2020-12-20 04:52:25,120] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:52:25,161] {logging_mixin.py:103} INFO - [2020-12-20 04:52:25,161] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:52:25,171] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.855 seconds
+[2020-12-20 04:53:11,276] {scheduler_job.py:181} INFO - Started process (PID=57937) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:53:11,276] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:53:11,276] {logging_mixin.py:103} INFO - [2020-12-20 04:53:11,276] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:53:19,253] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:53:19,254] {logging_mixin.py:103} INFO - [2020-12-20 04:53:19,254] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:53:19,294] {logging_mixin.py:103} INFO - [2020-12-20 04:53:19,294] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:53:19,303] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 8.027 seconds
+[2020-12-20 04:54:05,428] {scheduler_job.py:181} INFO - Started process (PID=58224) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:54:05,428] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:54:05,428] {logging_mixin.py:103} INFO - [2020-12-20 04:54:05,428] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:54:13,182] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:54:13,183] {logging_mixin.py:103} INFO - [2020-12-20 04:54:13,183] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:54:13,224] {logging_mixin.py:103} INFO - [2020-12-20 04:54:13,224] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:54:13,233] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.806 seconds
+[2020-12-20 04:54:59,386] {scheduler_job.py:181} INFO - Started process (PID=58515) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:54:59,386] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:54:59,386] {logging_mixin.py:103} INFO - [2020-12-20 04:54:59,386] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:55:07,295] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:55:07,296] {logging_mixin.py:103} INFO - [2020-12-20 04:55:07,295] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:55:07,336] {logging_mixin.py:103} INFO - [2020-12-20 04:55:07,336] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:55:07,345] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.960 seconds
+[2020-12-20 04:55:53,745] {scheduler_job.py:181} INFO - Started process (PID=58796) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:55:53,745] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:55:53,746] {logging_mixin.py:103} INFO - [2020-12-20 04:55:53,745] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:56:01,460] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:56:01,461] {logging_mixin.py:103} INFO - [2020-12-20 04:56:01,461] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:56:01,503] {logging_mixin.py:103} INFO - [2020-12-20 04:56:01,503] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:56:01,513] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.768 seconds
+[2020-12-20 04:56:47,685] {scheduler_job.py:181} INFO - Started process (PID=59078) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:56:47,685] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:56:47,685] {logging_mixin.py:103} INFO - [2020-12-20 04:56:47,685] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:56:55,487] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:56:55,488] {logging_mixin.py:103} INFO - [2020-12-20 04:56:55,487] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:56:55,531] {logging_mixin.py:103} INFO - [2020-12-20 04:56:55,531] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:56:55,540] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.856 seconds
+[2020-12-20 04:57:41,572] {scheduler_job.py:181} INFO - Started process (PID=59361) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:57:41,572] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:57:41,573] {logging_mixin.py:103} INFO - [2020-12-20 04:57:41,573] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:57:49,185] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:57:49,186] {logging_mixin.py:103} INFO - [2020-12-20 04:57:49,186] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:57:49,229] {logging_mixin.py:103} INFO - [2020-12-20 04:57:49,229] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:57:49,239] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.667 seconds
+[2020-12-20 04:58:35,173] {scheduler_job.py:181} INFO - Started process (PID=59643) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:58:35,173] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:58:35,173] {logging_mixin.py:103} INFO - [2020-12-20 04:58:35,173] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:58:42,996] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:58:42,997] {logging_mixin.py:103} INFO - [2020-12-20 04:58:42,997] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:58:43,039] {logging_mixin.py:103} INFO - [2020-12-20 04:58:43,039] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:58:43,050] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.877 seconds
+[2020-12-20 04:59:29,208] {scheduler_job.py:181} INFO - Started process (PID=59925) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:59:29,208] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 04:59:29,208] {logging_mixin.py:103} INFO - [2020-12-20 04:59:29,208] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:59:37,139] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 04:59:37,140] {logging_mixin.py:103} INFO - [2020-12-20 04:59:37,140] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:59:37,182] {logging_mixin.py:103} INFO - [2020-12-20 04:59:37,182] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 04:59:37,192] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.985 seconds
+[2020-12-20 05:00:23,341] {scheduler_job.py:181} INFO - Started process (PID=60213) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:00:23,341] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:00:23,342] {logging_mixin.py:103} INFO - [2020-12-20 05:00:23,342] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:00:30,995] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:00:30,996] {logging_mixin.py:103} INFO - [2020-12-20 05:00:30,995] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:00:31,036] {logging_mixin.py:103} INFO - [2020-12-20 05:00:31,036] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:00:31,045] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.704 seconds
+[2020-12-20 05:01:17,311] {scheduler_job.py:181} INFO - Started process (PID=60495) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:01:17,311] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:01:17,312] {logging_mixin.py:103} INFO - [2020-12-20 05:01:17,312] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:01:24,899] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:01:24,900] {logging_mixin.py:103} INFO - [2020-12-20 05:01:24,900] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:01:24,941] {logging_mixin.py:103} INFO - [2020-12-20 05:01:24,941] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:01:24,950] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.639 seconds
+[2020-12-20 05:02:08,912] {scheduler_job.py:181} INFO - Started process (PID=60782) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:02:08,912] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:02:08,913] {logging_mixin.py:103} INFO - [2020-12-20 05:02:08,913] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:02:16,903] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:02:16,903] {logging_mixin.py:103} INFO - [2020-12-20 05:02:16,903] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:02:16,945] {logging_mixin.py:103} INFO - [2020-12-20 05:02:16,945] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:02:16,956] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 8.044 seconds
+[2020-12-20 05:03:02,980] {scheduler_job.py:181} INFO - Started process (PID=61069) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:03:02,981] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:03:02,981] {logging_mixin.py:103} INFO - [2020-12-20 05:03:02,981] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:03:10,728] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:03:10,729] {logging_mixin.py:103} INFO - [2020-12-20 05:03:10,728] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:03:10,771] {logging_mixin.py:103} INFO - [2020-12-20 05:03:10,771] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:03:10,781] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.801 seconds
+[2020-12-20 05:03:57,146] {scheduler_job.py:181} INFO - Started process (PID=61352) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:03:57,147] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:03:57,147] {logging_mixin.py:103} INFO - [2020-12-20 05:03:57,147] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:04:05,208] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:04:05,209] {logging_mixin.py:103} INFO - [2020-12-20 05:04:05,209] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:04:05,251] {logging_mixin.py:103} INFO - [2020-12-20 05:04:05,250] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:04:05,260] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 8.114 seconds
+[2020-12-20 05:04:51,163] {scheduler_job.py:181} INFO - Started process (PID=61638) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:04:51,163] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:04:51,163] {logging_mixin.py:103} INFO - [2020-12-20 05:04:51,163] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:04:58,836] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:04:58,837] {logging_mixin.py:103} INFO - [2020-12-20 05:04:58,837] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:04:58,879] {logging_mixin.py:103} INFO - [2020-12-20 05:04:58,879] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:04:58,889] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.726 seconds
+[2020-12-20 05:05:44,897] {scheduler_job.py:181} INFO - Started process (PID=61927) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:05:44,897] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:05:44,898] {logging_mixin.py:103} INFO - [2020-12-20 05:05:44,898] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:05:52,864] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:05:52,865] {logging_mixin.py:103} INFO - [2020-12-20 05:05:52,864] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:05:52,918] {logging_mixin.py:103} INFO - [2020-12-20 05:05:52,918] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:05:52,932] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 8.035 seconds
+[2020-12-20 05:06:38,834] {scheduler_job.py:181} INFO - Started process (PID=62208) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:06:38,834] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:06:38,834] {logging_mixin.py:103} INFO - [2020-12-20 05:06:38,834] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:06:46,617] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:06:46,618] {logging_mixin.py:103} INFO - [2020-12-20 05:06:46,617] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:06:46,659] {logging_mixin.py:103} INFO - [2020-12-20 05:06:46,659] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:06:46,669] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.835 seconds
+[2020-12-20 05:07:32,654] {scheduler_job.py:181} INFO - Started process (PID=62490) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:07:32,654] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:07:32,655] {logging_mixin.py:103} INFO - [2020-12-20 05:07:32,655] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:07:40,799] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:07:40,800] {logging_mixin.py:103} INFO - [2020-12-20 05:07:40,800] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:07:40,839] {logging_mixin.py:103} INFO - [2020-12-20 05:07:40,839] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:07:40,847] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 8.194 seconds
+[2020-12-20 05:08:27,822] {scheduler_job.py:181} INFO - Started process (PID=62778) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:08:27,822] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:08:27,823] {logging_mixin.py:103} INFO - [2020-12-20 05:08:27,823] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:08:35,516] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:08:35,517] {logging_mixin.py:103} INFO - [2020-12-20 05:08:35,517] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:08:35,559] {logging_mixin.py:103} INFO - [2020-12-20 05:08:35,559] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:08:35,568] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.746 seconds
+[2020-12-20 05:09:21,845] {scheduler_job.py:181} INFO - Started process (PID=63068) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:09:21,845] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:09:21,846] {logging_mixin.py:103} INFO - [2020-12-20 05:09:21,845] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:09:29,883] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:09:29,884] {logging_mixin.py:103} INFO - [2020-12-20 05:09:29,884] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:09:29,925] {logging_mixin.py:103} INFO - [2020-12-20 05:09:29,925] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:09:29,935] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 8.090 seconds
+[2020-12-20 05:10:16,201] {scheduler_job.py:181} INFO - Started process (PID=63354) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:10:16,202] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:10:16,202] {logging_mixin.py:103} INFO - [2020-12-20 05:10:16,202] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:10:23,964] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:10:23,965] {logging_mixin.py:103} INFO - [2020-12-20 05:10:23,965] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:10:24,006] {logging_mixin.py:103} INFO - [2020-12-20 05:10:24,006] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:10:24,015] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.814 seconds
+[2020-12-20 05:11:10,452] {scheduler_job.py:181} INFO - Started process (PID=63636) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:11:10,452] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:11:10,453] {logging_mixin.py:103} INFO - [2020-12-20 05:11:10,453] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:11:18,105] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:11:18,106] {logging_mixin.py:103} INFO - [2020-12-20 05:11:18,106] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:11:18,147] {logging_mixin.py:103} INFO - [2020-12-20 05:11:18,147] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:11:18,157] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.705 seconds
+[2020-12-20 05:12:01,891] {scheduler_job.py:181} INFO - Started process (PID=63921) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:12:01,891] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:12:01,891] {logging_mixin.py:103} INFO - [2020-12-20 05:12:01,891] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:12:09,433] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:12:09,434] {logging_mixin.py:103} INFO - [2020-12-20 05:12:09,434] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:12:09,477] {logging_mixin.py:103} INFO - [2020-12-20 05:12:09,477] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:12:09,486] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.596 seconds
+[2020-12-20 05:12:55,560] {scheduler_job.py:181} INFO - Started process (PID=64203) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:12:55,560] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:12:55,560] {logging_mixin.py:103} INFO - [2020-12-20 05:12:55,560] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:13:03,376] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:13:03,377] {logging_mixin.py:103} INFO - [2020-12-20 05:13:03,377] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:13:03,419] {logging_mixin.py:103} INFO - [2020-12-20 05:13:03,418] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:13:03,427] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.868 seconds
+[2020-12-20 05:13:49,379] {scheduler_job.py:181} INFO - Started process (PID=64486) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:13:49,379] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:13:49,380] {logging_mixin.py:103} INFO - [2020-12-20 05:13:49,379] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:13:57,013] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:13:57,014] {logging_mixin.py:103} INFO - [2020-12-20 05:13:57,013] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:13:57,056] {logging_mixin.py:103} INFO - [2020-12-20 05:13:57,056] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:13:57,065] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.687 seconds
+[2020-12-20 05:14:43,308] {scheduler_job.py:181} INFO - Started process (PID=64769) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:14:43,309] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:14:43,309] {logging_mixin.py:103} INFO - [2020-12-20 05:14:43,309] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:14:51,419] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:14:51,420] {logging_mixin.py:103} INFO - [2020-12-20 05:14:51,420] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:14:51,456] {logging_mixin.py:103} INFO - [2020-12-20 05:14:51,456] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:14:51,464] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 8.156 seconds
+[2020-12-20 05:15:34,234] {scheduler_job.py:181} INFO - Started process (PID=65058) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:15:34,234] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:15:34,234] {logging_mixin.py:103} INFO - [2020-12-20 05:15:34,234] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:15:41,902] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:15:41,903] {logging_mixin.py:103} INFO - [2020-12-20 05:15:41,903] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:15:41,941] {logging_mixin.py:103} INFO - [2020-12-20 05:15:41,941] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:15:41,949] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.716 seconds
+[2020-12-20 05:16:28,031] {scheduler_job.py:181} INFO - Started process (PID=65339) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:16:28,032] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:16:28,032] {logging_mixin.py:103} INFO - [2020-12-20 05:16:28,032] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:16:35,984] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:16:35,986] {logging_mixin.py:103} INFO - [2020-12-20 05:16:35,985] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:16:36,029] {logging_mixin.py:103} INFO - [2020-12-20 05:16:36,029] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:16:36,039] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 8.008 seconds
+[2020-12-20 05:17:22,164] {scheduler_job.py:181} INFO - Started process (PID=65625) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:17:22,165] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:17:22,165] {logging_mixin.py:103} INFO - [2020-12-20 05:17:22,165] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:17:29,882] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:17:29,882] {logging_mixin.py:103} INFO - [2020-12-20 05:17:29,882] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:17:29,922] {logging_mixin.py:103} INFO - [2020-12-20 05:17:29,922] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:17:29,932] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.768 seconds
+[2020-12-20 05:18:15,983] {scheduler_job.py:181} INFO - Started process (PID=65908) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:18:15,983] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:18:15,984] {logging_mixin.py:103} INFO - [2020-12-20 05:18:15,984] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:18:25,185] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:18:25,187] {logging_mixin.py:103} INFO - [2020-12-20 05:18:25,186] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:18:25,238] {logging_mixin.py:103} INFO - [2020-12-20 05:18:25,238] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:18:25,250] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 9.269 seconds
+[2020-12-20 05:19:12,205] {scheduler_job.py:181} INFO - Started process (PID=66194) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:19:12,205] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:19:12,206] {logging_mixin.py:103} INFO - [2020-12-20 05:19:12,206] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:19:19,731] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:19:19,732] {logging_mixin.py:103} INFO - [2020-12-20 05:19:19,732] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:19:19,774] {logging_mixin.py:103} INFO - [2020-12-20 05:19:19,774] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:19:19,783] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.578 seconds
+[2020-12-20 05:20:06,592] {scheduler_job.py:181} INFO - Started process (PID=66485) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:20:06,593] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:20:06,593] {logging_mixin.py:103} INFO - [2020-12-20 05:20:06,593] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:20:16,658] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:20:16,659] {logging_mixin.py:103} INFO - [2020-12-20 05:20:16,659] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:20:16,697] {logging_mixin.py:103} INFO - [2020-12-20 05:20:16,697] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:20:16,705] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 10.113 seconds
+[2020-12-20 05:21:03,915] {scheduler_job.py:181} INFO - Started process (PID=66778) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:21:03,916] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:21:03,916] {logging_mixin.py:103} INFO - [2020-12-20 05:21:03,916] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:21:12,104] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:21:12,105] {logging_mixin.py:103} INFO - [2020-12-20 05:21:12,105] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:21:12,151] {logging_mixin.py:103} INFO - [2020-12-20 05:21:12,151] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:21:12,160] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 8.245 seconds
+[2020-12-20 05:21:59,414] {scheduler_job.py:181} INFO - Started process (PID=67062) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:21:59,414] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:21:59,414] {logging_mixin.py:103} INFO - [2020-12-20 05:21:59,414] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:22:07,347] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:22:07,347] {logging_mixin.py:103} INFO - [2020-12-20 05:22:07,347] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:22:07,390] {logging_mixin.py:103} INFO - [2020-12-20 05:22:07,390] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:22:07,399] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.986 seconds
+[2020-12-20 05:22:54,541] {scheduler_job.py:181} INFO - Started process (PID=67351) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:22:54,541] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:22:54,542] {logging_mixin.py:103} INFO - [2020-12-20 05:22:54,541] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:23:02,405] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:23:02,406] {logging_mixin.py:103} INFO - [2020-12-20 05:23:02,405] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:23:02,452] {logging_mixin.py:103} INFO - [2020-12-20 05:23:02,452] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:23:02,463] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.922 seconds
+[2020-12-20 05:23:49,675] {scheduler_job.py:181} INFO - Started process (PID=67639) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:23:49,675] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:23:49,676] {logging_mixin.py:103} INFO - [2020-12-20 05:23:49,676] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:23:57,485] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:23:57,486] {logging_mixin.py:103} INFO - [2020-12-20 05:23:57,486] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:23:57,528] {logging_mixin.py:103} INFO - [2020-12-20 05:23:57,528] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:23:57,538] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.863 seconds
+[2020-12-20 05:24:44,727] {scheduler_job.py:181} INFO - Started process (PID=67927) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:24:44,727] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:24:44,727] {logging_mixin.py:103} INFO - [2020-12-20 05:24:44,727] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:24:52,664] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:24:52,665] {logging_mixin.py:103} INFO - [2020-12-20 05:24:52,665] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:24:52,706] {logging_mixin.py:103} INFO - [2020-12-20 05:24:52,706] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:24:52,715] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.989 seconds
+[2020-12-20 05:25:39,870] {scheduler_job.py:181} INFO - Started process (PID=68213) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:25:39,870] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:25:39,870] {logging_mixin.py:103} INFO - [2020-12-20 05:25:39,870] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:25:48,080] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:25:48,081] {logging_mixin.py:103} INFO - [2020-12-20 05:25:48,081] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:25:48,123] {logging_mixin.py:103} INFO - [2020-12-20 05:25:48,122] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:25:48,133] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 8.264 seconds
+[2020-12-20 05:26:35,147] {scheduler_job.py:181} INFO - Started process (PID=68496) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:26:35,147] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:26:35,147] {logging_mixin.py:103} INFO - [2020-12-20 05:26:35,147] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:26:42,931] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:26:42,931] {logging_mixin.py:103} INFO - [2020-12-20 05:26:42,931] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:26:42,974] {logging_mixin.py:103} INFO - [2020-12-20 05:26:42,974] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:26:42,984] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.838 seconds
+[2020-12-20 05:27:30,181] {scheduler_job.py:181} INFO - Started process (PID=68786) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:27:30,182] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:27:30,183] {logging_mixin.py:103} INFO - [2020-12-20 05:27:30,182] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:27:40,712] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:27:40,713] {logging_mixin.py:103} INFO - [2020-12-20 05:27:40,713] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:27:40,755] {logging_mixin.py:103} INFO - [2020-12-20 05:27:40,755] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:27:40,764] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 10.584 seconds
+[2020-12-20 05:28:27,323] {scheduler_job.py:181} INFO - Started process (PID=69069) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:28:27,323] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:28:27,323] {logging_mixin.py:103} INFO - [2020-12-20 05:28:27,323] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:28:35,006] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:28:35,007] {logging_mixin.py:103} INFO - [2020-12-20 05:28:35,007] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:28:35,050] {logging_mixin.py:103} INFO - [2020-12-20 05:28:35,050] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:28:35,059] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 7.737 seconds
+[2020-12-20 05:29:21,246] {scheduler_job.py:181} INFO - Started process (PID=69354) to work on /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:29:21,247] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py for tasks to queue
+[2020-12-20 05:29:21,247] {logging_mixin.py:103} INFO - [2020-12-20 05:29:21,247] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:29:29,244] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['etl_pipeline']) retrieved from /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py
+[2020-12-20 05:29:29,246] {logging_mixin.py:103} INFO - [2020-12-20 05:29:29,245] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:29:29,284] {logging_mixin.py:103} INFO - [2020-12-20 05:29:29,284] {dag.py:2266} INFO - Setting next_dagrun for etl_pipeline to 2020-12-18 00:00:00+00:00
+[2020-12-20 05:29:29,293] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/lil_data_engineering/chapter_4/airflow/dags/dags.py took 8.046 seconds

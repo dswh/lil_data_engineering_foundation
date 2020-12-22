@@ -1,0 +1,378 @@
+[2020-12-20 04:41:50,187] {scheduler_job.py:181} INFO - Started process (PID=54458) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:41:50,188] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:41:50,188] {logging_mixin.py:103} INFO - [2020-12-20 04:41:50,188] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:41:50,195] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:41:50,196] {logging_mixin.py:103} INFO - [2020-12-20 04:41:50,196] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:41:50,226] {logging_mixin.py:103} INFO - [2020-12-20 04:41:50,226] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:41:50,237] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.051 seconds
+[2020-12-20 04:42:46,005] {scheduler_job.py:181} INFO - Started process (PID=54760) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:42:46,006] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:42:46,006] {logging_mixin.py:103} INFO - [2020-12-20 04:42:46,006] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:42:46,012] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:42:46,013] {logging_mixin.py:103} INFO - [2020-12-20 04:42:46,013] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:42:46,042] {logging_mixin.py:103} INFO - [2020-12-20 04:42:46,042] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:42:46,053] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.048 seconds
+[2020-12-20 04:43:42,921] {scheduler_job.py:181} INFO - Started process (PID=55055) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:43:42,922] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:43:42,923] {logging_mixin.py:103} INFO - [2020-12-20 04:43:42,923] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:43:42,940] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:43:42,941] {logging_mixin.py:103} INFO - [2020-12-20 04:43:42,941] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:43:43,004] {logging_mixin.py:103} INFO - [2020-12-20 04:43:43,004] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:43:43,029] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.109 seconds
+[2020-12-20 04:44:55,578] {scheduler_job.py:181} INFO - Started process (PID=55345) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:44:55,578] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:44:55,579] {logging_mixin.py:103} INFO - [2020-12-20 04:44:55,579] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:44:55,585] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:44:55,585] {logging_mixin.py:103} INFO - [2020-12-20 04:44:55,585] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:44:55,610] {logging_mixin.py:103} INFO - [2020-12-20 04:44:55,609] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:44:55,619] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.041 seconds
+[2020-12-20 04:45:47,488] {scheduler_job.py:181} INFO - Started process (PID=55635) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:45:47,488] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:45:47,489] {logging_mixin.py:103} INFO - [2020-12-20 04:45:47,488] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:45:47,496] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:45:47,497] {logging_mixin.py:103} INFO - [2020-12-20 04:45:47,497] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:45:47,528] {logging_mixin.py:103} INFO - [2020-12-20 04:45:47,528] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:45:47,540] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.053 seconds
+[2020-12-20 04:46:41,806] {scheduler_job.py:181} INFO - Started process (PID=55917) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:46:41,807] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:46:41,807] {logging_mixin.py:103} INFO - [2020-12-20 04:46:41,807] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:46:41,815] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:46:41,816] {logging_mixin.py:103} INFO - [2020-12-20 04:46:41,816] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:46:41,852] {logging_mixin.py:103} INFO - [2020-12-20 04:46:41,852] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:46:41,866] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.060 seconds
+[2020-12-20 04:47:35,325] {scheduler_job.py:181} INFO - Started process (PID=56202) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:47:35,325] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:47:35,325] {logging_mixin.py:103} INFO - [2020-12-20 04:47:35,325] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:47:35,331] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:47:35,331] {logging_mixin.py:103} INFO - [2020-12-20 04:47:35,331] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:47:35,356] {logging_mixin.py:103} INFO - [2020-12-20 04:47:35,356] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:47:35,366] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.041 seconds
+[2020-12-20 04:48:28,972] {scheduler_job.py:181} INFO - Started process (PID=56490) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:48:28,972] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:48:28,972] {logging_mixin.py:103} INFO - [2020-12-20 04:48:28,972] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:48:28,978] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:48:28,978] {logging_mixin.py:103} INFO - [2020-12-20 04:48:28,978] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:48:29,003] {logging_mixin.py:103} INFO - [2020-12-20 04:48:29,003] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:48:29,013] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.041 seconds
+[2020-12-20 04:49:22,431] {scheduler_job.py:181} INFO - Started process (PID=56773) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:49:22,431] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:49:22,432] {logging_mixin.py:103} INFO - [2020-12-20 04:49:22,432] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:49:22,438] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:49:22,438] {logging_mixin.py:103} INFO - [2020-12-20 04:49:22,438] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:49:22,462] {logging_mixin.py:103} INFO - [2020-12-20 04:49:22,462] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:49:22,471] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.041 seconds
+[2020-12-20 04:50:16,232] {scheduler_job.py:181} INFO - Started process (PID=57060) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:50:16,232] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:50:16,233] {logging_mixin.py:103} INFO - [2020-12-20 04:50:16,233] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:50:16,239] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:50:16,240] {logging_mixin.py:103} INFO - [2020-12-20 04:50:16,239] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:50:16,265] {logging_mixin.py:103} INFO - [2020-12-20 04:50:16,265] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:50:16,275] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.044 seconds
+[2020-12-20 04:51:09,948] {scheduler_job.py:181} INFO - Started process (PID=57341) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:51:09,948] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:51:09,949] {logging_mixin.py:103} INFO - [2020-12-20 04:51:09,949] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:51:09,955] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:51:09,955] {logging_mixin.py:103} INFO - [2020-12-20 04:51:09,955] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:51:09,980] {logging_mixin.py:103} INFO - [2020-12-20 04:51:09,980] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:51:09,990] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.042 seconds
+[2020-12-20 04:52:01,364] {scheduler_job.py:181} INFO - Started process (PID=57626) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:52:01,365] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:52:01,365] {logging_mixin.py:103} INFO - [2020-12-20 04:52:01,365] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:52:01,372] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:52:01,373] {logging_mixin.py:103} INFO - [2020-12-20 04:52:01,372] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:52:01,399] {logging_mixin.py:103} INFO - [2020-12-20 04:52:01,399] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:52:01,409] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.045 seconds
+[2020-12-20 04:52:54,147] {scheduler_job.py:181} INFO - Started process (PID=57916) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:52:54,147] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:52:54,148] {logging_mixin.py:103} INFO - [2020-12-20 04:52:54,147] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:52:54,153] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:52:54,154] {logging_mixin.py:103} INFO - [2020-12-20 04:52:54,153] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:52:54,177] {logging_mixin.py:103} INFO - [2020-12-20 04:52:54,177] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:52:54,187] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.040 seconds
+[2020-12-20 04:53:48,330] {scheduler_job.py:181} INFO - Started process (PID=58201) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:53:48,331] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:53:48,331] {logging_mixin.py:103} INFO - [2020-12-20 04:53:48,331] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:53:48,337] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:53:48,337] {logging_mixin.py:103} INFO - [2020-12-20 04:53:48,337] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:53:48,363] {logging_mixin.py:103} INFO - [2020-12-20 04:53:48,363] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:53:48,372] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.042 seconds
+[2020-12-20 04:54:42,308] {scheduler_job.py:181} INFO - Started process (PID=58490) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:54:42,308] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:54:42,309] {logging_mixin.py:103} INFO - [2020-12-20 04:54:42,309] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:54:42,315] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:54:42,315] {logging_mixin.py:103} INFO - [2020-12-20 04:54:42,315] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:54:42,339] {logging_mixin.py:103} INFO - [2020-12-20 04:54:42,339] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:54:42,349] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.041 seconds
+[2020-12-20 04:55:36,677] {scheduler_job.py:181} INFO - Started process (PID=58775) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:55:36,677] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:55:36,678] {logging_mixin.py:103} INFO - [2020-12-20 04:55:36,678] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:55:36,684] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:55:36,685] {logging_mixin.py:103} INFO - [2020-12-20 04:55:36,685] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:55:36,714] {logging_mixin.py:103} INFO - [2020-12-20 04:55:36,714] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:55:36,725] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.049 seconds
+[2020-12-20 04:56:30,564] {scheduler_job.py:181} INFO - Started process (PID=59057) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:56:30,564] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:56:30,565] {logging_mixin.py:103} INFO - [2020-12-20 04:56:30,565] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:56:30,570] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:56:30,571] {logging_mixin.py:103} INFO - [2020-12-20 04:56:30,571] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:56:30,595] {logging_mixin.py:103} INFO - [2020-12-20 04:56:30,595] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:56:30,604] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.041 seconds
+[2020-12-20 04:57:24,472] {scheduler_job.py:181} INFO - Started process (PID=59339) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:57:24,473] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:57:24,473] {logging_mixin.py:103} INFO - [2020-12-20 04:57:24,473] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:57:24,479] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:57:24,479] {logging_mixin.py:103} INFO - [2020-12-20 04:57:24,479] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:57:24,503] {logging_mixin.py:103} INFO - [2020-12-20 04:57:24,503] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:57:24,512] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.040 seconds
+[2020-12-20 04:58:18,193] {scheduler_job.py:181} INFO - Started process (PID=59621) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:58:18,193] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:58:18,194] {logging_mixin.py:103} INFO - [2020-12-20 04:58:18,194] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:58:18,200] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:58:18,200] {logging_mixin.py:103} INFO - [2020-12-20 04:58:18,200] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:58:18,227] {logging_mixin.py:103} INFO - [2020-12-20 04:58:18,226] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:58:18,237] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.044 seconds
+[2020-12-20 04:59:12,116] {scheduler_job.py:181} INFO - Started process (PID=59904) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:59:12,116] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 04:59:12,116] {logging_mixin.py:103} INFO - [2020-12-20 04:59:12,116] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:59:12,122] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 04:59:12,122] {logging_mixin.py:103} INFO - [2020-12-20 04:59:12,122] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:59:12,146] {logging_mixin.py:103} INFO - [2020-12-20 04:59:12,146] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 04:59:12,156] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.041 seconds
+[2020-12-20 05:00:06,188] {scheduler_job.py:181} INFO - Started process (PID=60186) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:00:06,189] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:00:06,189] {logging_mixin.py:103} INFO - [2020-12-20 05:00:06,189] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:00:06,196] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:00:06,196] {logging_mixin.py:103} INFO - [2020-12-20 05:00:06,196] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:00:06,223] {logging_mixin.py:103} INFO - [2020-12-20 05:00:06,223] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:00:06,233] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.045 seconds
+[2020-12-20 05:01:00,237] {scheduler_job.py:181} INFO - Started process (PID=60472) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:01:00,238] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:01:00,238] {logging_mixin.py:103} INFO - [2020-12-20 05:01:00,238] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:01:00,244] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:01:00,244] {logging_mixin.py:103} INFO - [2020-12-20 05:01:00,244] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:01:00,269] {logging_mixin.py:103} INFO - [2020-12-20 05:01:00,269] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:01:00,279] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.042 seconds
+[2020-12-20 05:01:52,793] {scheduler_job.py:181} INFO - Started process (PID=60756) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:01:52,793] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:01:52,793] {logging_mixin.py:103} INFO - [2020-12-20 05:01:52,793] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:01:52,800] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:01:52,800] {logging_mixin.py:103} INFO - [2020-12-20 05:01:52,800] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:01:52,827] {logging_mixin.py:103} INFO - [2020-12-20 05:01:52,827] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:01:52,839] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.047 seconds
+[2020-12-20 05:02:45,916] {scheduler_job.py:181} INFO - Started process (PID=61048) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:02:45,916] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:02:45,917] {logging_mixin.py:103} INFO - [2020-12-20 05:02:45,917] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:02:45,923] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:02:45,923] {logging_mixin.py:103} INFO - [2020-12-20 05:02:45,923] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:02:45,947] {logging_mixin.py:103} INFO - [2020-12-20 05:02:45,947] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:02:45,957] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.042 seconds
+[2020-12-20 05:03:40,081] {scheduler_job.py:181} INFO - Started process (PID=61331) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:03:40,082] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:03:40,082] {logging_mixin.py:103} INFO - [2020-12-20 05:03:40,082] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:03:40,089] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:03:40,090] {logging_mixin.py:103} INFO - [2020-12-20 05:03:40,090] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:03:40,114] {logging_mixin.py:103} INFO - [2020-12-20 05:03:40,114] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:03:40,123] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.042 seconds
+[2020-12-20 05:04:34,147] {scheduler_job.py:181} INFO - Started process (PID=61616) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:04:34,148] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:04:34,148] {logging_mixin.py:103} INFO - [2020-12-20 05:04:34,148] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:04:34,154] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:04:34,154] {logging_mixin.py:103} INFO - [2020-12-20 05:04:34,154] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:04:34,181] {logging_mixin.py:103} INFO - [2020-12-20 05:04:34,181] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:04:34,191] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.044 seconds
+[2020-12-20 05:05:27,895] {scheduler_job.py:181} INFO - Started process (PID=61902) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:05:27,895] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:05:27,895] {logging_mixin.py:103} INFO - [2020-12-20 05:05:27,895] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:05:27,901] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:05:27,901] {logging_mixin.py:103} INFO - [2020-12-20 05:05:27,901] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:05:27,925] {logging_mixin.py:103} INFO - [2020-12-20 05:05:27,925] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:05:27,935] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.040 seconds
+[2020-12-20 05:06:22,270] {scheduler_job.py:181} INFO - Started process (PID=62187) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:06:22,270] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:06:22,270] {logging_mixin.py:103} INFO - [2020-12-20 05:06:22,270] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:06:22,276] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:06:22,276] {logging_mixin.py:103} INFO - [2020-12-20 05:06:22,276] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:06:22,303] {logging_mixin.py:103} INFO - [2020-12-20 05:06:22,303] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:06:22,314] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.045 seconds
+[2020-12-20 05:07:15,574] {scheduler_job.py:181} INFO - Started process (PID=62469) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:07:15,574] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:07:15,574] {logging_mixin.py:103} INFO - [2020-12-20 05:07:15,574] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:07:15,580] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:07:15,580] {logging_mixin.py:103} INFO - [2020-12-20 05:07:15,580] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:07:15,606] {logging_mixin.py:103} INFO - [2020-12-20 05:07:15,606] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:07:15,615] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.042 seconds
+[2020-12-20 05:08:10,308] {scheduler_job.py:181} INFO - Started process (PID=62756) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:08:10,309] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:08:10,309] {logging_mixin.py:103} INFO - [2020-12-20 05:08:10,309] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:08:10,315] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:08:10,316] {logging_mixin.py:103} INFO - [2020-12-20 05:08:10,315] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:08:10,341] {logging_mixin.py:103} INFO - [2020-12-20 05:08:10,341] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:08:10,351] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.043 seconds
+[2020-12-20 05:09:04,743] {scheduler_job.py:181} INFO - Started process (PID=63043) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:09:04,744] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:09:04,744] {logging_mixin.py:103} INFO - [2020-12-20 05:09:04,744] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:09:04,751] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:09:04,751] {logging_mixin.py:103} INFO - [2020-12-20 05:09:04,751] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:09:04,778] {logging_mixin.py:103} INFO - [2020-12-20 05:09:04,778] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:09:04,788] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.045 seconds
+[2020-12-20 05:09:59,102] {scheduler_job.py:181} INFO - Started process (PID=63329) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:09:59,102] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:09:59,103] {logging_mixin.py:103} INFO - [2020-12-20 05:09:59,103] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:09:59,108] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:09:59,109] {logging_mixin.py:103} INFO - [2020-12-20 05:09:59,109] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:09:59,133] {logging_mixin.py:103} INFO - [2020-12-20 05:09:59,133] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:09:59,143] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.041 seconds
+[2020-12-20 05:10:53,268] {scheduler_job.py:181} INFO - Started process (PID=63615) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:10:53,268] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:10:53,269] {logging_mixin.py:103} INFO - [2020-12-20 05:10:53,269] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:10:53,275] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:10:53,275] {logging_mixin.py:103} INFO - [2020-12-20 05:10:53,275] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:10:53,300] {logging_mixin.py:103} INFO - [2020-12-20 05:10:53,300] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:10:53,310] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.042 seconds
+[2020-12-20 05:11:45,955] {scheduler_job.py:181} INFO - Started process (PID=63900) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:11:45,956] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:11:45,956] {logging_mixin.py:103} INFO - [2020-12-20 05:11:45,956] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:11:45,962] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:11:45,962] {logging_mixin.py:103} INFO - [2020-12-20 05:11:45,962] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:11:45,986] {logging_mixin.py:103} INFO - [2020-12-20 05:11:45,986] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:11:45,997] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.042 seconds
+[2020-12-20 05:12:38,494] {scheduler_job.py:181} INFO - Started process (PID=64182) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:12:38,494] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:12:38,495] {logging_mixin.py:103} INFO - [2020-12-20 05:12:38,495] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:12:38,501] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:12:38,501] {logging_mixin.py:103} INFO - [2020-12-20 05:12:38,501] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:12:38,526] {logging_mixin.py:103} INFO - [2020-12-20 05:12:38,526] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:12:38,537] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.043 seconds
+[2020-12-20 05:13:32,275] {scheduler_job.py:181} INFO - Started process (PID=64465) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:13:32,276] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:13:32,276] {logging_mixin.py:103} INFO - [2020-12-20 05:13:32,276] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:13:32,282] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:13:32,282] {logging_mixin.py:103} INFO - [2020-12-20 05:13:32,282] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:13:32,307] {logging_mixin.py:103} INFO - [2020-12-20 05:13:32,307] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:13:32,317] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.042 seconds
+[2020-12-20 05:14:26,165] {scheduler_job.py:181} INFO - Started process (PID=64748) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:14:26,165] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:14:26,165] {logging_mixin.py:103} INFO - [2020-12-20 05:14:26,165] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:14:26,171] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:14:26,171] {logging_mixin.py:103} INFO - [2020-12-20 05:14:26,171] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:14:26,197] {logging_mixin.py:103} INFO - [2020-12-20 05:14:26,197] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:14:26,207] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.043 seconds
+[2020-12-20 05:15:18,355] {scheduler_job.py:181} INFO - Started process (PID=65036) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:15:18,356] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:15:18,356] {logging_mixin.py:103} INFO - [2020-12-20 05:15:18,356] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:15:18,362] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:15:18,362] {logging_mixin.py:103} INFO - [2020-12-20 05:15:18,362] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:15:18,388] {logging_mixin.py:103} INFO - [2020-12-20 05:15:18,388] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:15:18,398] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.043 seconds
+[2020-12-20 05:16:10,940] {scheduler_job.py:181} INFO - Started process (PID=65318) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:16:10,941] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:16:10,941] {logging_mixin.py:103} INFO - [2020-12-20 05:16:10,941] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:16:10,948] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:16:10,949] {logging_mixin.py:103} INFO - [2020-12-20 05:16:10,949] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:16:10,978] {logging_mixin.py:103} INFO - [2020-12-20 05:16:10,978] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:16:10,989] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.049 seconds
+[2020-12-20 05:17:05,043] {scheduler_job.py:181} INFO - Started process (PID=65602) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:17:05,044] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:17:05,044] {logging_mixin.py:103} INFO - [2020-12-20 05:17:05,044] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:17:05,051] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:17:05,051] {logging_mixin.py:103} INFO - [2020-12-20 05:17:05,051] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:17:05,078] {logging_mixin.py:103} INFO - [2020-12-20 05:17:05,078] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:17:05,088] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.045 seconds
+[2020-12-20 05:17:58,965] {scheduler_job.py:181} INFO - Started process (PID=65886) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:17:58,965] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:17:58,965] {logging_mixin.py:103} INFO - [2020-12-20 05:17:58,965] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:17:58,971] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:17:58,971] {logging_mixin.py:103} INFO - [2020-12-20 05:17:58,971] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:17:58,996] {logging_mixin.py:103} INFO - [2020-12-20 05:17:58,996] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:17:59,006] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.042 seconds
+[2020-12-20 05:18:55,001] {scheduler_job.py:181} INFO - Started process (PID=66172) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:18:55,001] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:18:55,002] {logging_mixin.py:103} INFO - [2020-12-20 05:18:55,002] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:18:55,009] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:18:55,009] {logging_mixin.py:103} INFO - [2020-12-20 05:18:55,009] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:18:55,037] {logging_mixin.py:103} INFO - [2020-12-20 05:18:55,037] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:18:55,047] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.047 seconds
+[2020-12-20 05:19:49,149] {scheduler_job.py:181} INFO - Started process (PID=66460) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:19:49,150] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:19:49,150] {logging_mixin.py:103} INFO - [2020-12-20 05:19:49,150] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:19:49,156] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:19:49,156] {logging_mixin.py:103} INFO - [2020-12-20 05:19:49,156] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:19:49,180] {logging_mixin.py:103} INFO - [2020-12-20 05:19:49,180] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:19:49,191] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.042 seconds
+[2020-12-20 05:20:46,376] {scheduler_job.py:181} INFO - Started process (PID=66757) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:20:46,377] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:20:46,378] {logging_mixin.py:103} INFO - [2020-12-20 05:20:46,377] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:20:46,386] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:20:46,387] {logging_mixin.py:103} INFO - [2020-12-20 05:20:46,387] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:20:46,415] {logging_mixin.py:103} INFO - [2020-12-20 05:20:46,415] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:20:46,426] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.050 seconds
+[2020-12-20 05:21:41,997] {scheduler_job.py:181} INFO - Started process (PID=67040) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:21:41,997] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:21:41,997] {logging_mixin.py:103} INFO - [2020-12-20 05:21:41,997] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:21:42,005] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:21:42,005] {logging_mixin.py:103} INFO - [2020-12-20 05:21:42,005] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:21:42,034] {logging_mixin.py:103} INFO - [2020-12-20 05:21:42,034] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:21:42,046] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.050 seconds
+[2020-12-20 05:22:37,053] {scheduler_job.py:181} INFO - Started process (PID=67325) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:22:37,053] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:22:37,053] {logging_mixin.py:103} INFO - [2020-12-20 05:22:37,053] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:22:37,061] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:22:37,061] {logging_mixin.py:103} INFO - [2020-12-20 05:22:37,061] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:22:37,090] {logging_mixin.py:103} INFO - [2020-12-20 05:22:37,090] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:22:37,102] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.050 seconds
+[2020-12-20 05:23:32,210] {scheduler_job.py:181} INFO - Started process (PID=67612) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:23:32,210] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:23:32,210] {logging_mixin.py:103} INFO - [2020-12-20 05:23:32,210] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:23:32,217] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:23:32,218] {logging_mixin.py:103} INFO - [2020-12-20 05:23:32,218] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:23:32,247] {logging_mixin.py:103} INFO - [2020-12-20 05:23:32,247] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:23:32,257] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.048 seconds
+[2020-12-20 05:24:27,192] {scheduler_job.py:181} INFO - Started process (PID=67906) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:24:27,193] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:24:27,193] {logging_mixin.py:103} INFO - [2020-12-20 05:24:27,193] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:24:27,200] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:24:27,200] {logging_mixin.py:103} INFO - [2020-12-20 05:24:27,200] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:24:27,229] {logging_mixin.py:103} INFO - [2020-12-20 05:24:27,229] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:24:27,241] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.049 seconds
+[2020-12-20 05:25:22,398] {scheduler_job.py:181} INFO - Started process (PID=68192) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:25:22,399] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:25:22,399] {logging_mixin.py:103} INFO - [2020-12-20 05:25:22,399] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:25:22,406] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:25:22,406] {logging_mixin.py:103} INFO - [2020-12-20 05:25:22,406] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:25:22,436] {logging_mixin.py:103} INFO - [2020-12-20 05:25:22,436] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:25:22,448] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.050 seconds
+[2020-12-20 05:26:17,743] {scheduler_job.py:181} INFO - Started process (PID=68474) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:26:17,743] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:26:17,744] {logging_mixin.py:103} INFO - [2020-12-20 05:26:17,744] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:26:17,751] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:26:17,751] {logging_mixin.py:103} INFO - [2020-12-20 05:26:17,751] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:26:17,779] {logging_mixin.py:103} INFO - [2020-12-20 05:26:17,779] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:26:17,790] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.048 seconds
+[2020-12-20 05:27:12,603] {scheduler_job.py:181} INFO - Started process (PID=68757) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:27:12,604] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:27:12,604] {logging_mixin.py:103} INFO - [2020-12-20 05:27:12,604] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:27:12,611] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:27:12,611] {logging_mixin.py:103} INFO - [2020-12-20 05:27:12,611] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:27:12,640] {logging_mixin.py:103} INFO - [2020-12-20 05:27:12,640] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:27:12,651] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.048 seconds
+[2020-12-20 05:28:09,949] {scheduler_job.py:181} INFO - Started process (PID=69046) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:28:09,950] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:28:09,951] {logging_mixin.py:103} INFO - [2020-12-20 05:28:09,950] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:28:09,958] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:28:09,958] {logging_mixin.py:103} INFO - [2020-12-20 05:28:09,958] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:28:09,987] {logging_mixin.py:103} INFO - [2020-12-20 05:28:09,987] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:28:09,999] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.050 seconds
+[2020-12-20 05:29:04,192] {scheduler_job.py:181} INFO - Started process (PID=69333) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:29:04,192] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:29:04,193] {logging_mixin.py:103} INFO - [2020-12-20 05:29:04,192] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:29:04,198] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:29:04,199] {logging_mixin.py:103} INFO - [2020-12-20 05:29:04,199] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:29:04,224] {logging_mixin.py:103} INFO - [2020-12-20 05:29:04,224] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:29:04,235] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.043 seconds
+[2020-12-20 05:29:58,242] {scheduler_job.py:181} INFO - Started process (PID=69616) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:29:58,242] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2020-12-20 05:29:58,243] {logging_mixin.py:103} INFO - [2020-12-20 05:29:58,243] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:29:58,248] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2020-12-20 05:29:58,249] {logging_mixin.py:103} INFO - [2020-12-20 05:29:58,249] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:29:58,274] {logging_mixin.py:103} INFO - [2020-12-20 05:29:58,274] {dag.py:2266} INFO - Setting next_dagrun for example_dag_decorator to None
+[2020-12-20 05:29:58,283] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.042 seconds

@@ -1,0 +1,371 @@
+[2020-12-20 04:42:28,102] {scheduler_job.py:181} INFO - Started process (PID=54735) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:42:28,102] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:42:28,103] {logging_mixin.py:103} INFO - [2020-12-20 04:42:28,102] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:42:28,108] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:42:28,109] {logging_mixin.py:103} INFO - [2020-12-20 04:42:28,109] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:42:28,138] {logging_mixin.py:103} INFO - [2020-12-20 04:42:28,138] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:42:28,148] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.047 seconds
+[2020-12-20 04:43:22,480] {scheduler_job.py:181} INFO - Started process (PID=55029) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:43:22,481] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:43:22,481] {logging_mixin.py:103} INFO - [2020-12-20 04:43:22,481] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:43:22,487] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:43:22,487] {logging_mixin.py:103} INFO - [2020-12-20 04:43:22,487] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:43:22,511] {logging_mixin.py:103} INFO - [2020-12-20 04:43:22,511] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:43:22,519] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.040 seconds
+[2020-12-20 04:44:36,495] {scheduler_job.py:181} INFO - Started process (PID=55322) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:44:36,495] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:44:36,496] {logging_mixin.py:103} INFO - [2020-12-20 04:44:36,496] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:44:36,507] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:44:36,507] {logging_mixin.py:103} INFO - [2020-12-20 04:44:36,507] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:44:36,549] {logging_mixin.py:103} INFO - [2020-12-20 04:44:36,549] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:44:36,559] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.065 seconds
+[2020-12-20 04:45:30,962] {scheduler_job.py:181} INFO - Started process (PID=55612) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:45:30,963] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:45:30,963] {logging_mixin.py:103} INFO - [2020-12-20 04:45:30,963] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:45:30,967] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:45:30,967] {logging_mixin.py:103} INFO - [2020-12-20 04:45:30,967] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:45:30,994] {logging_mixin.py:103} INFO - [2020-12-20 04:45:30,994] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:45:31,001] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.039 seconds
+[2020-12-20 04:46:24,769] {scheduler_job.py:181} INFO - Started process (PID=55896) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:46:24,769] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:46:24,770] {logging_mixin.py:103} INFO - [2020-12-20 04:46:24,770] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:46:24,774] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:46:24,774] {logging_mixin.py:103} INFO - [2020-12-20 04:46:24,774] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:46:24,799] {logging_mixin.py:103} INFO - [2020-12-20 04:46:24,799] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:46:24,806] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 04:47:18,358] {scheduler_job.py:181} INFO - Started process (PID=56181) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:47:18,358] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:47:18,358] {logging_mixin.py:103} INFO - [2020-12-20 04:47:18,358] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:47:18,363] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:47:18,363] {logging_mixin.py:103} INFO - [2020-12-20 04:47:18,363] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:47:18,388] {logging_mixin.py:103} INFO - [2020-12-20 04:47:18,388] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:47:18,395] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 04:48:11,933] {scheduler_job.py:181} INFO - Started process (PID=56467) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:48:11,933] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:48:11,933] {logging_mixin.py:103} INFO - [2020-12-20 04:48:11,933] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:48:11,938] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:48:11,938] {logging_mixin.py:103} INFO - [2020-12-20 04:48:11,938] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:48:11,964] {logging_mixin.py:103} INFO - [2020-12-20 04:48:11,964] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:48:11,971] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.038 seconds
+[2020-12-20 04:49:05,416] {scheduler_job.py:181} INFO - Started process (PID=56752) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:49:05,416] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:49:05,417] {logging_mixin.py:103} INFO - [2020-12-20 04:49:05,416] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:49:05,421] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:49:05,421] {logging_mixin.py:103} INFO - [2020-12-20 04:49:05,421] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:49:05,445] {logging_mixin.py:103} INFO - [2020-12-20 04:49:05,445] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:49:05,453] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 04:49:59,183] {scheduler_job.py:181} INFO - Started process (PID=57034) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:49:59,184] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:49:59,184] {logging_mixin.py:103} INFO - [2020-12-20 04:49:59,184] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:49:59,189] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:49:59,190] {logging_mixin.py:103} INFO - [2020-12-20 04:49:59,189] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:49:59,214] {logging_mixin.py:103} INFO - [2020-12-20 04:49:59,214] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:49:59,221] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.038 seconds
+[2020-12-20 04:50:52,879] {scheduler_job.py:181} INFO - Started process (PID=57320) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:50:52,880] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:50:52,880] {logging_mixin.py:103} INFO - [2020-12-20 04:50:52,880] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:50:52,886] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:50:52,886] {logging_mixin.py:103} INFO - [2020-12-20 04:50:52,886] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:50:52,914] {logging_mixin.py:103} INFO - [2020-12-20 04:50:52,914] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:50:52,922] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.043 seconds
+[2020-12-20 04:51:45,487] {scheduler_job.py:181} INFO - Started process (PID=57605) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:51:45,488] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:51:45,488] {logging_mixin.py:103} INFO - [2020-12-20 04:51:45,488] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:51:45,492] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:51:45,493] {logging_mixin.py:103} INFO - [2020-12-20 04:51:45,493] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:51:45,517] {logging_mixin.py:103} INFO - [2020-12-20 04:51:45,517] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:51:45,524] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 04:52:37,112] {scheduler_job.py:181} INFO - Started process (PID=57890) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:52:37,112] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:52:37,113] {logging_mixin.py:103} INFO - [2020-12-20 04:52:37,112] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:52:37,118] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:52:37,118] {logging_mixin.py:103} INFO - [2020-12-20 04:52:37,118] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:52:37,144] {logging_mixin.py:103} INFO - [2020-12-20 04:52:37,144] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:52:37,151] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.040 seconds
+[2020-12-20 04:53:31,214] {scheduler_job.py:181} INFO - Started process (PID=58176) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:53:31,215] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:53:31,215] {logging_mixin.py:103} INFO - [2020-12-20 04:53:31,215] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:53:31,219] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:53:31,220] {logging_mixin.py:103} INFO - [2020-12-20 04:53:31,220] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:53:31,245] {logging_mixin.py:103} INFO - [2020-12-20 04:53:31,244] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:53:31,252] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.038 seconds
+[2020-12-20 04:54:25,115] {scheduler_job.py:181} INFO - Started process (PID=58470) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:54:25,115] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:54:25,116] {logging_mixin.py:103} INFO - [2020-12-20 04:54:25,116] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:54:25,121] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:54:25,121] {logging_mixin.py:103} INFO - [2020-12-20 04:54:25,121] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:54:25,146] {logging_mixin.py:103} INFO - [2020-12-20 04:54:25,146] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:54:25,153] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.039 seconds
+[2020-12-20 04:55:19,479] {scheduler_job.py:181} INFO - Started process (PID=58753) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:55:19,479] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:55:19,480] {logging_mixin.py:103} INFO - [2020-12-20 04:55:19,480] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:55:19,484] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:55:19,484] {logging_mixin.py:103} INFO - [2020-12-20 04:55:19,484] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:55:19,508] {logging_mixin.py:103} INFO - [2020-12-20 04:55:19,508] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:55:19,516] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 04:56:13,450] {scheduler_job.py:181} INFO - Started process (PID=59035) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:56:13,450] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:56:13,451] {logging_mixin.py:103} INFO - [2020-12-20 04:56:13,451] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:56:13,456] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:56:13,456] {logging_mixin.py:103} INFO - [2020-12-20 04:56:13,456] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:56:13,483] {logging_mixin.py:103} INFO - [2020-12-20 04:56:13,483] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:56:13,490] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.040 seconds
+[2020-12-20 04:57:07,389] {scheduler_job.py:181} INFO - Started process (PID=59317) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:57:07,390] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:57:07,390] {logging_mixin.py:103} INFO - [2020-12-20 04:57:07,390] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:57:07,394] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:57:07,395] {logging_mixin.py:103} INFO - [2020-12-20 04:57:07,395] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:57:07,419] {logging_mixin.py:103} INFO - [2020-12-20 04:57:07,419] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:57:07,426] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.038 seconds
+[2020-12-20 04:58:01,176] {scheduler_job.py:181} INFO - Started process (PID=59600) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:58:01,176] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:58:01,177] {logging_mixin.py:103} INFO - [2020-12-20 04:58:01,177] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:58:01,182] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:58:01,182] {logging_mixin.py:103} INFO - [2020-12-20 04:58:01,182] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:58:01,209] {logging_mixin.py:103} INFO - [2020-12-20 04:58:01,209] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:58:01,217] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.041 seconds
+[2020-12-20 04:58:55,083] {scheduler_job.py:181} INFO - Started process (PID=59882) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:58:55,083] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:58:55,083] {logging_mixin.py:103} INFO - [2020-12-20 04:58:55,083] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:58:55,088] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:58:55,088] {logging_mixin.py:103} INFO - [2020-12-20 04:58:55,088] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:58:55,112] {logging_mixin.py:103} INFO - [2020-12-20 04:58:55,112] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:58:55,119] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 04:59:49,139] {scheduler_job.py:181} INFO - Started process (PID=60164) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:59:49,140] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 04:59:49,140] {logging_mixin.py:103} INFO - [2020-12-20 04:59:49,140] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:59:49,144] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 04:59:49,144] {logging_mixin.py:103} INFO - [2020-12-20 04:59:49,144] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 04:59:49,169] {logging_mixin.py:103} INFO - [2020-12-20 04:59:49,169] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 04:59:49,176] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 05:00:43,047] {scheduler_job.py:181} INFO - Started process (PID=60451) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:00:43,047] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:00:43,047] {logging_mixin.py:103} INFO - [2020-12-20 05:00:43,047] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:00:43,052] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:00:43,052] {logging_mixin.py:103} INFO - [2020-12-20 05:00:43,052] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:00:43,076] {logging_mixin.py:103} INFO - [2020-12-20 05:00:43,076] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:00:43,083] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 05:01:36,406] {scheduler_job.py:181} INFO - Started process (PID=60734) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:01:36,407] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:01:36,407] {logging_mixin.py:103} INFO - [2020-12-20 05:01:36,407] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:01:36,411] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:01:36,412] {logging_mixin.py:103} INFO - [2020-12-20 05:01:36,412] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:01:36,436] {logging_mixin.py:103} INFO - [2020-12-20 05:01:36,436] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:01:36,443] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 05:02:28,893] {scheduler_job.py:181} INFO - Started process (PID=61026) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:02:28,893] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:02:28,893] {logging_mixin.py:103} INFO - [2020-12-20 05:02:28,893] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:02:28,899] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:02:28,900] {logging_mixin.py:103} INFO - [2020-12-20 05:02:28,900] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:02:28,928] {logging_mixin.py:103} INFO - [2020-12-20 05:02:28,928] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:02:28,937] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2020-12-20 05:03:22,947] {scheduler_job.py:181} INFO - Started process (PID=61309) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:03:22,947] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:03:22,948] {logging_mixin.py:103} INFO - [2020-12-20 05:03:22,947] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:03:22,952] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:03:22,953] {logging_mixin.py:103} INFO - [2020-12-20 05:03:22,952] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:03:22,981] {logging_mixin.py:103} INFO - [2020-12-20 05:03:22,980] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:03:22,989] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.042 seconds
+[2020-12-20 05:04:17,117] {scheduler_job.py:181} INFO - Started process (PID=61595) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:04:17,118] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:04:17,118] {logging_mixin.py:103} INFO - [2020-12-20 05:04:17,118] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:04:17,123] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:04:17,124] {logging_mixin.py:103} INFO - [2020-12-20 05:04:17,124] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:04:17,148] {logging_mixin.py:103} INFO - [2020-12-20 05:04:17,148] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:04:17,155] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.038 seconds
+[2020-12-20 05:05:10,792] {scheduler_job.py:181} INFO - Started process (PID=61880) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:05:10,792] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:05:10,793] {logging_mixin.py:103} INFO - [2020-12-20 05:05:10,793] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:05:10,798] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:05:10,798] {logging_mixin.py:103} INFO - [2020-12-20 05:05:10,798] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:05:10,826] {logging_mixin.py:103} INFO - [2020-12-20 05:05:10,826] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:05:10,833] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.041 seconds
+[2020-12-20 05:06:04,918] {scheduler_job.py:181} INFO - Started process (PID=62165) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:06:04,918] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:06:04,918] {logging_mixin.py:103} INFO - [2020-12-20 05:06:04,918] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:06:04,924] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:06:04,924] {logging_mixin.py:103} INFO - [2020-12-20 05:06:04,924] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:06:04,947] {logging_mixin.py:103} INFO - [2020-12-20 05:06:04,947] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:06:04,954] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 05:06:58,562] {scheduler_job.py:181} INFO - Started process (PID=62447) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:06:58,562] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:06:58,562] {logging_mixin.py:103} INFO - [2020-12-20 05:06:58,562] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:06:58,567] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:06:58,567] {logging_mixin.py:103} INFO - [2020-12-20 05:06:58,567] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:06:58,592] {logging_mixin.py:103} INFO - [2020-12-20 05:06:58,592] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:06:58,598] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 05:07:52,819] {scheduler_job.py:181} INFO - Started process (PID=62735) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:07:52,820] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:07:52,820] {logging_mixin.py:103} INFO - [2020-12-20 05:07:52,820] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:07:52,825] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:07:52,826] {logging_mixin.py:103} INFO - [2020-12-20 05:07:52,826] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:07:52,854] {logging_mixin.py:103} INFO - [2020-12-20 05:07:52,854] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:07:52,862] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.043 seconds
+[2020-12-20 05:08:47,438] {scheduler_job.py:181} INFO - Started process (PID=63020) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:08:47,439] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:08:47,439] {logging_mixin.py:103} INFO - [2020-12-20 05:08:47,439] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:08:47,444] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:08:47,444] {logging_mixin.py:103} INFO - [2020-12-20 05:08:47,444] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:08:47,468] {logging_mixin.py:103} INFO - [2020-12-20 05:08:47,468] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:08:47,475] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 05:09:42,009] {scheduler_job.py:181} INFO - Started process (PID=63307) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:09:42,010] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:09:42,010] {logging_mixin.py:103} INFO - [2020-12-20 05:09:42,010] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:09:42,016] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:09:42,017] {logging_mixin.py:103} INFO - [2020-12-20 05:09:42,016] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:09:42,049] {logging_mixin.py:103} INFO - [2020-12-20 05:09:42,049] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:09:42,058] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.049 seconds
+[2020-12-20 05:10:35,979] {scheduler_job.py:181} INFO - Started process (PID=63593) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:10:35,979] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:10:35,980] {logging_mixin.py:103} INFO - [2020-12-20 05:10:35,980] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:10:35,985] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:10:35,985] {logging_mixin.py:103} INFO - [2020-12-20 05:10:35,985] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:10:36,012] {logging_mixin.py:103} INFO - [2020-12-20 05:10:36,012] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:10:36,021] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.042 seconds
+[2020-12-20 05:11:30,028] {scheduler_job.py:181} INFO - Started process (PID=63878) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:11:30,028] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:11:30,029] {logging_mixin.py:103} INFO - [2020-12-20 05:11:30,029] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:11:30,033] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:11:30,034] {logging_mixin.py:103} INFO - [2020-12-20 05:11:30,033] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:11:30,058] {logging_mixin.py:103} INFO - [2020-12-20 05:11:30,058] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:11:30,065] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.038 seconds
+[2020-12-20 05:12:21,444] {scheduler_job.py:181} INFO - Started process (PID=64160) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:12:21,444] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:12:21,445] {logging_mixin.py:103} INFO - [2020-12-20 05:12:21,445] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:12:21,450] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:12:21,451] {logging_mixin.py:103} INFO - [2020-12-20 05:12:21,450] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:12:21,476] {logging_mixin.py:103} INFO - [2020-12-20 05:12:21,476] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:12:21,484] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.041 seconds
+[2020-12-20 05:13:15,278] {scheduler_job.py:181} INFO - Started process (PID=64443) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:13:15,279] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:13:15,279] {logging_mixin.py:103} INFO - [2020-12-20 05:13:15,279] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:13:15,284] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:13:15,285] {logging_mixin.py:103} INFO - [2020-12-20 05:13:15,284] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:13:15,311] {logging_mixin.py:103} INFO - [2020-12-20 05:13:15,311] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:13:15,318] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.041 seconds
+[2020-12-20 05:14:09,147] {scheduler_job.py:181} INFO - Started process (PID=64727) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:14:09,147] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:14:09,148] {logging_mixin.py:103} INFO - [2020-12-20 05:14:09,148] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:14:09,152] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:14:09,153] {logging_mixin.py:103} INFO - [2020-12-20 05:14:09,152] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:14:09,177] {logging_mixin.py:103} INFO - [2020-12-20 05:14:09,177] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:14:09,184] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 05:15:02,314] {scheduler_job.py:181} INFO - Started process (PID=65012) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:15:02,314] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:15:02,315] {logging_mixin.py:103} INFO - [2020-12-20 05:15:02,314] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:15:02,321] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:15:02,322] {logging_mixin.py:103} INFO - [2020-12-20 05:15:02,322] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:15:02,357] {logging_mixin.py:103} INFO - [2020-12-20 05:15:02,357] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:15:02,367] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.054 seconds
+[2020-12-20 05:15:53,816] {scheduler_job.py:181} INFO - Started process (PID=65296) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:15:53,816] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:15:53,817] {logging_mixin.py:103} INFO - [2020-12-20 05:15:53,817] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:15:53,822] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:15:53,822] {logging_mixin.py:103} INFO - [2020-12-20 05:15:53,822] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:15:53,851] {logging_mixin.py:103} INFO - [2020-12-20 05:15:53,851] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:15:53,859] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2020-12-20 05:16:48,046] {scheduler_job.py:181} INFO - Started process (PID=65579) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:16:48,047] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:16:48,047] {logging_mixin.py:103} INFO - [2020-12-20 05:16:48,047] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:16:48,053] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:16:48,053] {logging_mixin.py:103} INFO - [2020-12-20 05:16:48,053] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:16:48,077] {logging_mixin.py:103} INFO - [2020-12-20 05:16:48,077] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:16:48,085] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.039 seconds
+[2020-12-20 05:17:41,836] {scheduler_job.py:181} INFO - Started process (PID=65865) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:17:41,836] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:17:41,837] {logging_mixin.py:103} INFO - [2020-12-20 05:17:41,836] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:17:41,841] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:17:41,842] {logging_mixin.py:103} INFO - [2020-12-20 05:17:41,841] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:17:41,870] {logging_mixin.py:103} INFO - [2020-12-20 05:17:41,870] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:17:41,878] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.043 seconds
+[2020-12-20 05:18:37,966] {scheduler_job.py:181} INFO - Started process (PID=66151) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:18:37,966] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:18:37,967] {logging_mixin.py:103} INFO - [2020-12-20 05:18:37,967] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:18:37,971] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:18:37,972] {logging_mixin.py:103} INFO - [2020-12-20 05:18:37,971] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:18:37,999] {logging_mixin.py:103} INFO - [2020-12-20 05:18:37,999] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:18:38,006] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.040 seconds
+[2020-12-20 05:19:31,615] {scheduler_job.py:181} INFO - Started process (PID=66432) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:19:31,616] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:19:31,616] {logging_mixin.py:103} INFO - [2020-12-20 05:19:31,616] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:19:31,621] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:19:31,621] {logging_mixin.py:103} INFO - [2020-12-20 05:19:31,621] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:19:31,644] {logging_mixin.py:103} INFO - [2020-12-20 05:19:31,644] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:19:31,652] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2020-12-20 05:20:28,933] {scheduler_job.py:181} INFO - Started process (PID=66734) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:20:28,934] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:20:28,935] {logging_mixin.py:103} INFO - [2020-12-20 05:20:28,935] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:20:28,942] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:20:28,942] {logging_mixin.py:103} INFO - [2020-12-20 05:20:28,942] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:20:28,969] {logging_mixin.py:103} INFO - [2020-12-20 05:20:28,969] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:20:28,976] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2020-12-20 05:21:24,405] {scheduler_job.py:181} INFO - Started process (PID=67020) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:21:24,405] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:21:24,405] {logging_mixin.py:103} INFO - [2020-12-20 05:21:24,405] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:21:24,411] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:21:24,411] {logging_mixin.py:103} INFO - [2020-12-20 05:21:24,411] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:21:24,440] {logging_mixin.py:103} INFO - [2020-12-20 05:21:24,440] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:21:24,448] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2020-12-20 05:22:19,576] {scheduler_job.py:181} INFO - Started process (PID=67304) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:22:19,576] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:22:19,576] {logging_mixin.py:103} INFO - [2020-12-20 05:22:19,576] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:22:19,582] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:22:19,582] {logging_mixin.py:103} INFO - [2020-12-20 05:22:19,582] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:22:19,610] {logging_mixin.py:103} INFO - [2020-12-20 05:22:19,610] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:22:19,618] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.043 seconds
+[2020-12-20 05:23:14,662] {scheduler_job.py:181} INFO - Started process (PID=67590) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:23:14,663] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:23:14,663] {logging_mixin.py:103} INFO - [2020-12-20 05:23:14,663] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:23:14,668] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:23:14,669] {logging_mixin.py:103} INFO - [2020-12-20 05:23:14,669] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:23:14,696] {logging_mixin.py:103} INFO - [2020-12-20 05:23:14,696] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:23:14,703] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.040 seconds
+[2020-12-20 05:24:09,778] {scheduler_job.py:181} INFO - Started process (PID=67881) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:24:09,778] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:24:09,779] {logging_mixin.py:103} INFO - [2020-12-20 05:24:09,778] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:24:09,783] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:24:09,783] {logging_mixin.py:103} INFO - [2020-12-20 05:24:09,783] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:24:09,812] {logging_mixin.py:103} INFO - [2020-12-20 05:24:09,812] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:24:09,820] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.042 seconds
+[2020-12-20 05:25:04,861] {scheduler_job.py:181} INFO - Started process (PID=68167) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:25:04,862] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:25:04,862] {logging_mixin.py:103} INFO - [2020-12-20 05:25:04,862] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:25:04,868] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:25:04,868] {logging_mixin.py:103} INFO - [2020-12-20 05:25:04,868] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:25:04,897] {logging_mixin.py:103} INFO - [2020-12-20 05:25:04,897] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:25:04,906] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.045 seconds
+[2020-12-20 05:26:00,283] {scheduler_job.py:181} INFO - Started process (PID=68452) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:26:00,283] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:26:00,284] {logging_mixin.py:103} INFO - [2020-12-20 05:26:00,283] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:26:00,288] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:26:00,289] {logging_mixin.py:103} INFO - [2020-12-20 05:26:00,288] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:26:00,316] {logging_mixin.py:103} INFO - [2020-12-20 05:26:00,316] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:26:00,325] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.042 seconds
+[2020-12-20 05:26:55,201] {scheduler_job.py:181} INFO - Started process (PID=68735) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:26:55,201] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:26:55,202] {logging_mixin.py:103} INFO - [2020-12-20 05:26:55,202] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:26:55,207] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:26:55,208] {logging_mixin.py:103} INFO - [2020-12-20 05:26:55,207] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:26:55,236] {logging_mixin.py:103} INFO - [2020-12-20 05:26:55,236] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:26:55,245] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2020-12-20 05:27:52,822] {scheduler_job.py:181} INFO - Started process (PID=69024) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:27:52,823] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:27:52,823] {logging_mixin.py:103} INFO - [2020-12-20 05:27:52,823] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:27:52,830] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:27:52,830] {logging_mixin.py:103} INFO - [2020-12-20 05:27:52,830] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:27:52,859] {logging_mixin.py:103} INFO - [2020-12-20 05:27:52,859] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:27:52,867] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.046 seconds
+[2020-12-20 05:28:46,988] {scheduler_job.py:181} INFO - Started process (PID=69308) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:28:46,988] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:28:46,989] {logging_mixin.py:103} INFO - [2020-12-20 05:28:46,988] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:28:46,993] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:28:46,994] {logging_mixin.py:103} INFO - [2020-12-20 05:28:46,994] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:28:47,021] {logging_mixin.py:103} INFO - [2020-12-20 05:28:47,020] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:28:47,027] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.040 seconds
+[2020-12-20 05:29:41,214] {scheduler_job.py:181} INFO - Started process (PID=69594) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:29:41,214] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2020-12-20 05:29:41,214] {logging_mixin.py:103} INFO - [2020-12-20 05:29:41,214] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:29:41,219] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2020-12-20 05:29:41,219] {logging_mixin.py:103} INFO - [2020-12-20 05:29:41,219] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-20 05:29:41,243] {logging_mixin.py:103} INFO - [2020-12-20 05:29:41,243] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2020-12-20 05:29:41,250] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
