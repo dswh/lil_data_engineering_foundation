@@ -1,46 +1,36 @@
 ##import required libraries
-import pyspark.sql
-
+import pyspark
 
 ##create spark session
 spark = pyspark.sql.SparkSession \
-    .builder \
-    .appName("Python Spark SQL basic example") \
-    .config('spark.driver.extraClassPath', "/Users/harshittyagi/Downloads/postgresql-42.2.18.jar") \
-    .getOrCreate()
+   .builder \
+   .appName("Python Spark SQL basic example") \
+   .config('spark.driver.extraClassPath', "/Users/harshittyagi/Downloads/postgresql-42.2.18.jar") \
+   .getOrCreate()
 
-##read movies table from db using spark
+
+##read table from db using spark jdbc
 movies_df = spark.read \
-    .format("jdbc") \
-    .option("url", "jdbc:postgresql://localhost:5432/etl_pipeline") \
-    .option("dbtable", "movies") \
-    .option("user", "<username>") \
-    .option("password", "<password>") \
-    .option("driver", "org.postgresql.Driver") \
-    .load()
+   .format("jdbc") \
+   .option("url", "jdbc:postgresql://localhost:5432/etl_pipeline") \
+   .option("dbtable", "movies") \
+   .option("user", "<username>") \
+   .option("password", "<password>") \
+   .option("driver", "org.postgresql.Driver") \
+   .load()
+   
+##add code below
+user_df = spark.read \
+   .format("jdbc") \
+   .option("url", "jdbc:postgresql://localhost:5432/etl_pipeline") \
+   .option("dbtable", "_____") \
+   .option("user", "<username>") \
+   .option("password", "<password>") \
+   .option("driver", "______") \
+   .load()
 
-##read users table from db using spark
-users_df = spark.read \
-    .format("jdbc") \
-    .option("url", "jdbc:postgresql://localhost:5432/etl_pipeline") \
-    .option("dbtable", "users") \
-    .option("user", "<username>") \
-    .option("password", "<password>") \
-    .option("driver", "org.postgresql.Driver") \
-    .load()
-
-## transforming tables
-avg_rating = users_df.groupBy("movie_id").mean("rating")
-
-##join the movies_df and avg_ratings table on id
-df = movies_df.join(avg_rating, movies_df.id == avg_rating.movie_id)
-
-
-##print all the tables/dataframes
-print(movies_df.show())
-print(users_df.show())
-print(df.show())
-
+##print the users dataframe
+print(_______)
 
 
 

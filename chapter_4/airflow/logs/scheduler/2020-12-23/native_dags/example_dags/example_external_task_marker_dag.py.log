@@ -1,0 +1,32 @@
+[2020-12-23 07:11:02,883] {scheduler_job.py:181} INFO - Started process (PID=58770) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2020-12-23 07:11:02,884] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2020-12-23 07:11:02,884] {logging_mixin.py:103} INFO - [2020-12-23 07:11:02,884] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2020-12-23 07:11:02,890] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2020-12-23 07:11:02,891] {logging_mixin.py:103} INFO - [2020-12-23 07:11:02,890] {dag.py:1813} INFO - Sync 2 DAGs
+[2020-12-23 07:11:02,921] {logging_mixin.py:103} INFO - [2020-12-23 07:11:02,921] {dag.py:2266} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2020-12-23 07:11:02,921] {logging_mixin.py:103} INFO - [2020-12-23 07:11:02,921] {dag.py:2266} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2020-12-23 07:11:02,936] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.053 seconds
+[2020-12-23 07:12:16,422] {scheduler_job.py:181} INFO - Started process (PID=59131) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2020-12-23 07:12:16,422] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2020-12-23 07:12:16,423] {logging_mixin.py:103} INFO - [2020-12-23 07:12:16,422] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2020-12-23 07:12:16,428] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2020-12-23 07:12:16,429] {logging_mixin.py:103} INFO - [2020-12-23 07:12:16,429] {dag.py:1813} INFO - Sync 2 DAGs
+[2020-12-23 07:12:16,460] {logging_mixin.py:103} INFO - [2020-12-23 07:12:16,460] {dag.py:2266} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2020-12-23 07:12:16,460] {logging_mixin.py:103} INFO - [2020-12-23 07:12:16,460] {dag.py:2266} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2020-12-23 07:12:16,474] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.053 seconds
+[2020-12-23 07:13:11,184] {scheduler_job.py:181} INFO - Started process (PID=59415) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2020-12-23 07:13:11,185] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2020-12-23 07:13:11,185] {logging_mixin.py:103} INFO - [2020-12-23 07:13:11,185] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2020-12-23 07:13:11,191] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2020-12-23 07:13:11,191] {logging_mixin.py:103} INFO - [2020-12-23 07:13:11,191] {dag.py:1813} INFO - Sync 2 DAGs
+[2020-12-23 07:13:11,222] {logging_mixin.py:103} INFO - [2020-12-23 07:13:11,221] {dag.py:2266} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2020-12-23 07:13:11,222] {logging_mixin.py:103} INFO - [2020-12-23 07:13:11,222] {dag.py:2266} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2020-12-23 07:13:11,235] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.051 seconds
+[2020-12-23 07:14:06,849] {scheduler_job.py:181} INFO - Started process (PID=59710) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2020-12-23 07:14:06,850] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2020-12-23 07:14:06,852] {logging_mixin.py:103} INFO - [2020-12-23 07:14:06,851] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2020-12-23 07:14:06,863] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2020-12-23 07:14:06,864] {logging_mixin.py:103} INFO - [2020-12-23 07:14:06,864] {dag.py:1813} INFO - Sync 2 DAGs
+[2020-12-23 07:14:06,924] {logging_mixin.py:103} INFO - [2020-12-23 07:14:06,924] {dag.py:2266} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2020-12-23 07:14:06,925] {logging_mixin.py:103} INFO - [2020-12-23 07:14:06,925] {dag.py:2266} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2020-12-23 07:14:06,948] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.100 seconds

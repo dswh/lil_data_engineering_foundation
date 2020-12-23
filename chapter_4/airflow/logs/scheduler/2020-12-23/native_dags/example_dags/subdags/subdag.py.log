@@ -1,0 +1,15 @@
+[2020-12-23 07:10:58,885] {scheduler_job.py:181} INFO - Started process (PID=58764) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2020-12-23 07:10:58,886] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2020-12-23 07:10:58,886] {logging_mixin.py:103} INFO - [2020-12-23 07:10:58,886] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2020-12-23 07:10:58,887] {scheduler_job.py:641} WARNING - No viable dags retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2020-12-23 07:10:58,913] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2020-12-23 07:12:58,995] {scheduler_job.py:181} INFO - Started process (PID=59398) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2020-12-23 07:12:58,995] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2020-12-23 07:12:58,995] {logging_mixin.py:103} INFO - [2020-12-23 07:12:58,995] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2020-12-23 07:12:58,996] {scheduler_job.py:641} WARNING - No viable dags retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2020-12-23 07:12:59,015] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2020-12-23 07:13:51,783] {scheduler_job.py:181} INFO - Started process (PID=59694) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2020-12-23 07:13:51,783] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2020-12-23 07:13:51,784] {logging_mixin.py:103} INFO - [2020-12-23 07:13:51,784] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2020-12-23 07:13:51,786] {scheduler_job.py:641} WARNING - No viable dags retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2020-12-23 07:13:51,825] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds

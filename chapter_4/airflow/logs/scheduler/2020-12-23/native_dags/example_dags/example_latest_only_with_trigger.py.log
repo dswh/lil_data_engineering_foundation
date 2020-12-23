@@ -1,0 +1,21 @@
+[2020-12-23 07:10:57,125] {scheduler_job.py:181} INFO - Started process (PID=58762) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2020-12-23 07:10:57,126] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2020-12-23 07:10:57,126] {logging_mixin.py:103} INFO - [2020-12-23 07:10:57,126] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2020-12-23 07:10:57,131] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2020-12-23 07:10:57,131] {logging_mixin.py:103} INFO - [2020-12-23 07:10:57,131] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-23 07:10:57,159] {logging_mixin.py:103} INFO - [2020-12-23 07:10:57,159] {dag.py:2266} INFO - Setting next_dagrun for latest_only_with_trigger to 2020-12-21 00:00:00+00:00
+[2020-12-23 07:10:57,171] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.046 seconds
+[2020-12-23 07:12:48,553] {scheduler_job.py:181} INFO - Started process (PID=59385) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2020-12-23 07:12:48,553] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2020-12-23 07:12:48,554] {logging_mixin.py:103} INFO - [2020-12-23 07:12:48,554] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2020-12-23 07:12:48,559] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2020-12-23 07:12:48,559] {logging_mixin.py:103} INFO - [2020-12-23 07:12:48,559] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-23 07:12:48,589] {logging_mixin.py:103} INFO - [2020-12-23 07:12:48,589] {dag.py:2266} INFO - Setting next_dagrun for latest_only_with_trigger to 2020-12-21 00:00:00+00:00
+[2020-12-23 07:12:48,601] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.049 seconds
+[2020-12-23 07:13:41,859] {scheduler_job.py:181} INFO - Started process (PID=59676) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2020-12-23 07:13:41,859] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2020-12-23 07:13:41,859] {logging_mixin.py:103} INFO - [2020-12-23 07:13:41,859] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2020-12-23 07:13:41,863] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2020-12-23 07:13:41,864] {logging_mixin.py:103} INFO - [2020-12-23 07:13:41,863] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-23 07:13:41,886] {logging_mixin.py:103} INFO - [2020-12-23 07:13:41,886] {dag.py:2266} INFO - Setting next_dagrun for latest_only_with_trigger to 2020-12-21 00:00:00+00:00
+[2020-12-23 07:13:41,893] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.034 seconds

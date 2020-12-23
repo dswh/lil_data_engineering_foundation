@@ -1,0 +1,28 @@
+[2020-12-23 07:10:53,389] {scheduler_job.py:181} INFO - Started process (PID=58757) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2020-12-23 07:10:53,390] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2020-12-23 07:10:53,390] {logging_mixin.py:103} INFO - [2020-12-23 07:10:53,390] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2020-12-23 07:10:53,396] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2020-12-23 07:10:53,396] {logging_mixin.py:103} INFO - [2020-12-23 07:10:53,396] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-23 07:10:53,425] {logging_mixin.py:103} INFO - [2020-12-23 07:10:53,425] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2020-12-21 00:00:00+00:00
+[2020-12-23 07:10:53,438] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2020-12-23 07:12:13,631] {scheduler_job.py:181} INFO - Started process (PID=59124) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2020-12-23 07:12:13,631] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2020-12-23 07:12:13,632] {logging_mixin.py:103} INFO - [2020-12-23 07:12:13,632] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2020-12-23 07:12:13,638] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2020-12-23 07:12:13,639] {logging_mixin.py:103} INFO - [2020-12-23 07:12:13,638] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-23 07:12:13,671] {logging_mixin.py:103} INFO - [2020-12-23 07:12:13,671] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2020-12-21 00:00:00+00:00
+[2020-12-23 07:12:13,685] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.055 seconds
+[2020-12-23 07:13:07,719] {scheduler_job.py:181} INFO - Started process (PID=59408) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2020-12-23 07:13:07,719] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2020-12-23 07:13:07,719] {logging_mixin.py:103} INFO - [2020-12-23 07:13:07,719] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2020-12-23 07:13:07,725] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2020-12-23 07:13:07,726] {logging_mixin.py:103} INFO - [2020-12-23 07:13:07,725] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-23 07:13:07,754] {logging_mixin.py:103} INFO - [2020-12-23 07:13:07,754] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2020-12-21 00:00:00+00:00
+[2020-12-23 07:13:07,764] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.046 seconds
+[2020-12-23 07:14:02,894] {scheduler_job.py:181} INFO - Started process (PID=59706) to work on /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2020-12-23 07:14:02,895] {scheduler_job.py:629} INFO - Processing file /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2020-12-23 07:14:02,895] {logging_mixin.py:103} INFO - [2020-12-23 07:14:02,895] {dagbag.py:440} INFO - Filling up the DagBag from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2020-12-23 07:14:02,906] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2020-12-23 07:14:02,907] {logging_mixin.py:103} INFO - [2020-12-23 07:14:02,907] {dag.py:1813} INFO - Sync 1 DAGs
+[2020-12-23 07:14:02,963] {logging_mixin.py:103} INFO - [2020-12-23 07:14:02,963] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2020-12-21 00:00:00+00:00
+[2020-12-23 07:14:02,982] {scheduler_job.py:189} INFO - Processing /Users/harshittyagi/lil/de_env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.089 seconds
