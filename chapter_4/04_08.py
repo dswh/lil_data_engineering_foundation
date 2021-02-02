@@ -14,8 +14,8 @@ def extract_movies_to_df():
         .format("jdbc") \
         .option("url", "jdbc:postgresql://localhost:5432/etl_pipeline") \
         .option("dbtable", "movies") \
-        .option("user", "harshittyagi") \
-        .option("password", "doll") \
+        .option("user", "<username>") \
+        .option("password", "<password>") \
         .option("driver", "org.postgresql.Driver") \
         .load()
     return movies_df
@@ -26,8 +26,8 @@ def extract_users_to_df():
         .format("jdbc") \
         .option("url", "jdbc:postgresql://localhost:5432/etl_pipeline") \
         .option("dbtable", "users") \
-        .option("user", "harshittyagi") \
-        .option("password", "doll") \
+        .option("user", "<username>") \
+        .option("password", "<password>") \
         .option("driver", "org.postgresql.Driver") \
         .load()
     return users_df
@@ -53,7 +53,7 @@ def load_df_to_db(df):
                   "driver": "org.postgresql.Driver"
                   }
     df.write.jdbc(url=url,
-                  table = "avg_ratings",
+                  table = "",
                   mode = mode,
                   properties = properties)
 

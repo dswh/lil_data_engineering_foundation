@@ -23,14 +23,14 @@ movies_df = spark.read \
 user_df = spark.read \
    .format("jdbc") \
    .option("url", "jdbc:postgresql://localhost:5432/etl_pipeline") \
-   .option("dbtable", "_____") \
+   .option("dbtable", "users") \
    .option("user", "<username>") \
    .option("password", "<password>") \
-   .option("driver", "______") \
+   .option("driver", "org.postgresql.Driver") \
    .load()
 
 ##print the users dataframe
-print(______)
+print(user_df.show())
 
 
 

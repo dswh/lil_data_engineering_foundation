@@ -30,18 +30,13 @@ users_df = spark.read \
     .load()
 
 ## transforming tables
-avg_rating = users_df.groupBy("movie_id").mean("rating")
+avg_rating = users_df.groupBy("").mean("")
 
 ##join the movies_df and avg_ratings table on id
-df = movies_df.join(avg_rating, movies_df.id == avg_rating.movie_id)
+df = movies_df.join()
 
 
 ##print all the tables/dataframes
 print(movies_df.show())
 print(users_df.show())
 print(df.show())
-
-
-
-
-
